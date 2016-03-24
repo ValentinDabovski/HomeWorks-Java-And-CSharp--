@@ -29,5 +29,8 @@ public class CalculateExpression {
         System.out.printf("F1 result: %.2f; ",formulaOne);
         System.out.printf("F2 result: %.2f; ",formulaTwo);
         System.out.printf("Diff: %.2f;",Math.abs(result));
+
+
+        //git test
     }
 }
