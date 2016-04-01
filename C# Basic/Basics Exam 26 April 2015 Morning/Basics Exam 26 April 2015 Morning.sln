@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ChessBoardGame", "02.ChessBoardGame\02.ChessBoardGame.csproj", "{F1C1BDA6-30F2-452F-8967-F6488CDEE0CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.DecryptMessages", "04.DecryptMessages\04.DecryptMessages.csproj", "{3DC526E3-05A4-4215-B8D2-6DFDC7166C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C1BDA6-30F2-452F-8967-F6488CDEE0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C1BDA6-30F2-452F-8967-F6488CDEE0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C1BDA6-30F2-452F-8967-F6488CDEE0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C1BDA6-30F2-452F-8967-F6488CDEE0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC526E3-05A4-4215-B8D2-6DFDC7166C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC526E3-05A4-4215-B8D2-6DFDC7166C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC526E3-05A4-4215-B8D2-6DFDC7166C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC526E3-05A4-4215-B8D2-6DFDC7166C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

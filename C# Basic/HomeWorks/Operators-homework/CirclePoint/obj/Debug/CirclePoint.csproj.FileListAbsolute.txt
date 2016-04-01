@@ -1,0 +1,3 @@
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\CirclePoint\bin\Debug\CirclePoint.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\CirclePoint\bin\Debug\CirclePoint.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\CirclePoint\bin\Debug\CirclePoint.exe.config

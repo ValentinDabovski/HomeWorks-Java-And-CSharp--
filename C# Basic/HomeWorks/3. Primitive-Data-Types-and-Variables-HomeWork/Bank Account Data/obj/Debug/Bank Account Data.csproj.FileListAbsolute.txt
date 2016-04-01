@@ -1,0 +1,6 @@
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Bank Account Data\bin\Debug\Bank Account Data.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Bank Account Data\obj\Debug\Bank Account Data.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Bank Account Data\bin\Debug\Bank Account Data.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Bank Account Data\bin\Debug\Bank Account Data.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Bank Account Data\obj\Debug\Bank Account Data.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Bank Account Data\obj\Debug\Bank Account Data.pdb

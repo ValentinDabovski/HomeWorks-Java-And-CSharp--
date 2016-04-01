@@ -1,0 +1,5 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\10.Odd and Even Product\bin\Debug\10.Odd and Even Product.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\10.Odd and Even Product\bin\Debug\10.Odd and Even Product.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\10.Odd and Even Product\bin\Debug\10.Odd and Even Product.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\10.Odd and Even Product\obj\Debug\10.Odd and Even Product.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\10.Odd and Even Product\obj\Debug\10.Odd and Even Product.pdb

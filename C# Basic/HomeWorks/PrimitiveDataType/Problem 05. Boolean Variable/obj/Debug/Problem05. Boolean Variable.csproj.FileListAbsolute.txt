@@ -1,0 +1,6 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem05. Boolean Variable\bin\Debug\Problem05.Boolean_Variable.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem05. Boolean Variable\obj\Debug\Problem05. Boolean Variable.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem05. Boolean Variable\bin\Debug\Problem05.Boolean_Variable.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem05. Boolean Variable\bin\Debug\Problem05.Boolean_Variable.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem05. Boolean Variable\obj\Debug\Problem05.Boolean_Variable.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem05. Boolean Variable\obj\Debug\Problem05.Boolean_Variable.pdb

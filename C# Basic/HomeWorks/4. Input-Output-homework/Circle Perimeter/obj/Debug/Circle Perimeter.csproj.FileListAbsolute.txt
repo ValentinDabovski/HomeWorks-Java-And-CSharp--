@@ -1,0 +1,6 @@
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Circle Perimeter\bin\Debug\Circle Perimeter.exe.config
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Circle Perimeter\bin\Debug\Circle Perimeter.exe
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Circle Perimeter\bin\Debug\Circle Perimeter.pdb
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Circle Perimeter\obj\Debug\Circle Perimeter.exe
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Circle Perimeter\obj\Debug\Circle Perimeter.pdb
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Circle Perimeter\obj\Debug\Circle Perimeter.csprojResolveAssemblyReference.cache

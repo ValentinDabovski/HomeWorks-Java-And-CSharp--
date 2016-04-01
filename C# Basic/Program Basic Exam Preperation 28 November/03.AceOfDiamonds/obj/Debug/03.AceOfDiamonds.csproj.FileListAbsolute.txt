@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Program Basic Exam Preperation 28 November\03.AceOfDiamonds\bin\Debug\03.AceOfDiamonds.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Program Basic Exam Preperation 28 November\03.AceOfDiamonds\bin\Debug\03.AceOfDiamonds.exe
+c:\users\val\documents\visual studio 2015\Projects\Program Basic Exam Preperation 28 November\03.AceOfDiamonds\bin\Debug\03.AceOfDiamonds.pdb
+c:\users\val\documents\visual studio 2015\Projects\Program Basic Exam Preperation 28 November\03.AceOfDiamonds\obj\Debug\03.AceOfDiamonds.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Program Basic Exam Preperation 28 November\03.AceOfDiamonds\obj\Debug\03.AceOfDiamonds.exe
+c:\users\val\documents\visual studio 2015\Projects\Program Basic Exam Preperation 28 November\03.AceOfDiamonds\obj\Debug\03.AceOfDiamonds.pdb

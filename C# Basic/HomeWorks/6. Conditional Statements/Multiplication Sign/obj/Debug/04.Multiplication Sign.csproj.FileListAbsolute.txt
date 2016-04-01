@@ -1,0 +1,3 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\Multiplication Sign\bin\Debug\Multiplication Sign.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\Multiplication Sign\obj\Debug\Multiplication Sign.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\Multiplication Sign\obj\Debug\Multiplication Sign.pdb

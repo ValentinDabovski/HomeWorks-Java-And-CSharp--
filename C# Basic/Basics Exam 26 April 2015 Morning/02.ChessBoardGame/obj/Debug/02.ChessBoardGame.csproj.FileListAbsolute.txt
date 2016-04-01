@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 26 April 2015 Morning\02.ChessBoardGame\bin\Debug\02.ChessBoardGame.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 26 April 2015 Morning\02.ChessBoardGame\bin\Debug\02.ChessBoardGame.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 26 April 2015 Morning\02.ChessBoardGame\bin\Debug\02.ChessBoardGame.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 26 April 2015 Morning\02.ChessBoardGame\obj\Debug\02.ChessBoardGame.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 26 April 2015 Morning\02.ChessBoardGame\obj\Debug\02.ChessBoardGame.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 26 April 2015 Morning\02.ChessBoardGame\obj\Debug\02.ChessBoardGame.pdb

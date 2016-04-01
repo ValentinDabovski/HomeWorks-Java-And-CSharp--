@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics Lab 16 August 2015\04.PhoneProcesses\bin\Debug\04.PhoneProcesses.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics Lab 16 August 2015\04.PhoneProcesses\bin\Debug\04.PhoneProcesses.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Lab 16 August 2015\04.PhoneProcesses\bin\Debug\04.PhoneProcesses.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Lab 16 August 2015\04.PhoneProcesses\obj\Debug\04.PhoneProcesses.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Basics Lab 16 August 2015\04.PhoneProcesses\obj\Debug\04.PhoneProcesses.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Lab 16 August 2015\04.PhoneProcesses\obj\Debug\04.PhoneProcesses.pdb

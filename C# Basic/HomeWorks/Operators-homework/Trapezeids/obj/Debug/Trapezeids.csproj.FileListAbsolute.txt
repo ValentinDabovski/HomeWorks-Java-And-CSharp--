@@ -1,0 +1,8 @@
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Trapezeids\bin\Debug\Trapezeids.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Trapezeids\bin\Debug\Trapezeids.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Trapezeids\bin\Debug\Trapezeids.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Trapezeids\obj\Debug\Trapezeids.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Trapezeids\obj\Debug\Trapezeids.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Trapezeids\bin\Debug\Trapezeids.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Trapezeids\obj\Debug\Trapezeids.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Trapezeids\obj\Debug\Trapezeids.pdb

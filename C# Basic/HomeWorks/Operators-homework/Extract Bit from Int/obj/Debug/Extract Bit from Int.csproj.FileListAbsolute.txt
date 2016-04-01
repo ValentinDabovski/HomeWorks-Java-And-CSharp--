@@ -1,0 +1,8 @@
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Extract Bit from Int\bin\Debug\Extract Bit from Int.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Extract Bit from Int\bin\Debug\Extract Bit from Int.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Extract Bit from Int\bin\Debug\Extract Bit from Int.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Extract Bit from Int\obj\Debug\Extract Bit from Int.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Extract Bit from Int\obj\Debug\Extract Bit from Int.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Extract Bit from Int\bin\Debug\Extract Bit from Int.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Extract Bit from Int\obj\Debug\Extract Bit from Int.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Extract Bit from Int\obj\Debug\Extract Bit from Int.pdb

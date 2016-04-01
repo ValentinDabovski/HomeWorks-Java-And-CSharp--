@@ -1,0 +1,5 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Arrays\RemoveNames\bin\Debug\RemoveNames.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Arrays\RemoveNames\bin\Debug\RemoveNames.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Arrays\RemoveNames\bin\Debug\RemoveNames.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Arrays\RemoveNames\obj\Debug\RemoveNames.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Arrays\RemoveNames\obj\Debug\RemoveNames.pdb

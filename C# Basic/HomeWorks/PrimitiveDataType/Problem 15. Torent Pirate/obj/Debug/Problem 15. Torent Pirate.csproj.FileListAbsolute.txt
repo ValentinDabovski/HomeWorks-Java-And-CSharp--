@@ -1,0 +1,6 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 15. Torent Pirate\bin\Debug\Problem_15.Torent_Pirate.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 15. Torent Pirate\bin\Debug\Problem_15.Torent_Pirate.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 15. Torent Pirate\bin\Debug\Problem_15.Torent_Pirate.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 15. Torent Pirate\obj\Debug\Problem 15. Torent Pirate.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 15. Torent Pirate\obj\Debug\Problem_15.Torent_Pirate.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 15. Torent Pirate\obj\Debug\Problem_15.Torent_Pirate.pdb

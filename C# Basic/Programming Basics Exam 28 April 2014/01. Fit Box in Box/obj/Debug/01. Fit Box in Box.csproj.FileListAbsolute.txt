@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics Exam 28 April 2014\01. Fit Box in Box\bin\Debug\_01.Fit_Box_in_Box.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics Exam 28 April 2014\01. Fit Box in Box\bin\Debug\_01.Fit_Box_in_Box.exe
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics Exam 28 April 2014\01. Fit Box in Box\bin\Debug\_01.Fit_Box_in_Box.pdb
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics Exam 28 April 2014\01. Fit Box in Box\obj\Debug\01. Fit Box in Box.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics Exam 28 April 2014\01. Fit Box in Box\obj\Debug\_01.Fit_Box_in_Box.exe
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics Exam 28 April 2014\01. Fit Box in Box\obj\Debug\_01.Fit_Box_in_Box.pdb

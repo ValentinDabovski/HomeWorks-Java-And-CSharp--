@@ -1,0 +1,6 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\Loops\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\Loops\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\Loops\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\Loops\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem 2. Numbers Not Divisible by 3 and 7.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2015\Projects\Loops\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\Loops\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.pdb

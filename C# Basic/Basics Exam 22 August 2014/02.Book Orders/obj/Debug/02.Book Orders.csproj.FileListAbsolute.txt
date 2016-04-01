@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 22 August 2014\02.Book Orders\bin\Debug\02.Book Orders.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 22 August 2014\02.Book Orders\bin\Debug\02.Book Orders.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 22 August 2014\02.Book Orders\bin\Debug\02.Book Orders.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 22 August 2014\02.Book Orders\obj\Debug\02.Book Orders.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 22 August 2014\02.Book Orders\obj\Debug\02.Book Orders.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 22 August 2014\02.Book Orders\obj\Debug\02.Book Orders.csprojResolveAssemblyReference.cache

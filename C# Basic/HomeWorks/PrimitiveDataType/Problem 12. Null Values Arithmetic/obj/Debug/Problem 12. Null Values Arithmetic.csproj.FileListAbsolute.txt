@@ -1,0 +1,5 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 12. Null Values Arithmetic\bin\Debug\Problem_12.Null_Values_Arithmetic.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 12. Null Values Arithmetic\bin\Debug\Problem_12.Null_Values_Arithmetic.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 12. Null Values Arithmetic\bin\Debug\Problem_12.Null_Values_Arithmetic.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 12. Null Values Arithmetic\obj\Debug\Problem_12.Null_Values_Arithmetic.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 12. Null Values Arithmetic\obj\Debug\Problem_12.Null_Values_Arithmetic.pdb

@@ -1,0 +1,3 @@
+C:\Users\123\documents\visual studio 2015\Projects\Loops\NumbersFrom1ToN_\bin\Debug\NumbersFrom1ToN_.exe.config
+C:\Users\123\documents\visual studio 2015\Projects\Loops\NumbersFrom1ToN_\obj\Debug\NumbersFrom1ToN_.exe
+C:\Users\123\documents\visual studio 2015\Projects\Loops\NumbersFrom1ToN_\obj\Debug\NumbersFrom1ToN_.pdb

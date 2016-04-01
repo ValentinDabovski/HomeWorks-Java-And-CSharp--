@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Exam Schedule", "01.Exam Schedule\01.Exam Schedule.csproj", "{F8F95C30-AE1C-4874-8E64-D11A3057F131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Odd_ Even Elements", "02.Odd_ Even Elements\02.Odd_ Even Elements.csproj", "{00890B0F-822E-4864-BFE0-A6E39EEE81ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Arrow", "03.Arrow\03.Arrow.csproj", "{91CEE89F-D995-4A79-BA1F-A6E3689969EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F95C30-AE1C-4874-8E64-D11A3057F131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F95C30-AE1C-4874-8E64-D11A3057F131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F95C30-AE1C-4874-8E64-D11A3057F131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F95C30-AE1C-4874-8E64-D11A3057F131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00890B0F-822E-4864-BFE0-A6E39EEE81ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00890B0F-822E-4864-BFE0-A6E39EEE81ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00890B0F-822E-4864-BFE0-A6E39EEE81ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00890B0F-822E-4864-BFE0-A6E39EEE81ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CEE89F-D995-4A79-BA1F-A6E3689969EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CEE89F-D995-4A79-BA1F-A6E3689969EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CEE89F-D995-4A79-BA1F-A6E3689969EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CEE89F-D995-4A79-BA1F-A6E3689969EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics December 2014 Lab\01.Beers\bin\Debug\01.Beers.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics December 2014 Lab\01.Beers\bin\Debug\01.Beers.exe
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics December 2014 Lab\01.Beers\bin\Debug\01.Beers.pdb
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics December 2014 Lab\01.Beers\obj\Debug\01.Beers.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics December 2014 Lab\01.Beers\obj\Debug\01.Beers.exe
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics December 2014 Lab\01.Beers\obj\Debug\01.Beers.pdb

@@ -1,0 +1,8 @@
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\3. Primitive-Data-Types-and-Variables-HomeWork\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\3. Primitive-Data-Types-and-Variables-HomeWork\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\3. Primitive-Data-Types-and-Variables-HomeWork\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

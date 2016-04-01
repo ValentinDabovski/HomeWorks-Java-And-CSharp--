@@ -1,0 +1,6 @@
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\Unicode Character\bin\Debug\Unicode Character.exe.config
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\Unicode Character\obj\Debug\Unicode Character.csprojResolveAssemblyReference.cache
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\Unicode Character\bin\Debug\Unicode Character.exe
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\Unicode Character\bin\Debug\Unicode Character.pdb
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\Unicode Character\obj\Debug\Unicode Character.exe
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\Unicode Character\obj\Debug\Unicode Character.pdb

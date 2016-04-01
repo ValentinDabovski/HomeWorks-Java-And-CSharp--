@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\knightPath\knightPath\bin\Debug\knightPath.exe.config
+c:\users\val\documents\visual studio 2015\Projects\knightPath\knightPath\bin\Debug\knightPath.exe
+c:\users\val\documents\visual studio 2015\Projects\knightPath\knightPath\bin\Debug\knightPath.pdb
+c:\users\val\documents\visual studio 2015\Projects\knightPath\knightPath\obj\Debug\knightPath.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\knightPath\knightPath\obj\Debug\knightPath.exe
+c:\users\val\documents\visual studio 2015\Projects\knightPath\knightPath\obj\Debug\knightPath.pdb

@@ -1,0 +1,9 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\Conditional Statements\Check for a play card\bin\Debug\Check for a play card.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\Conditional Statements\Check for a play card\bin\Debug\Check for a play card.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\Conditional Statements\Check for a play card\bin\Debug\Check for a play card.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\Conditional Statements\Check for a play card\obj\Debug\Check for a play card.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2015\Projects\Conditional Statements\Check for a play card\obj\Debug\Check for a play card.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\Conditional Statements\Check for a play card\obj\Debug\Check for a play card.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\Check for a play card\bin\Debug\Check for a play card.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\Check for a play card\obj\Debug\Check for a play card.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\Check for a play card\obj\Debug\Check for a play card.pdb

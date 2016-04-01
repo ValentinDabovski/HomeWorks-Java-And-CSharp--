@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 19 December 2014\01. Traveller Bob\bin\Debug\_01.Traveller_Bob.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 19 December 2014\01. Traveller Bob\bin\Debug\_01.Traveller_Bob.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 19 December 2014\01. Traveller Bob\bin\Debug\_01.Traveller_Bob.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 19 December 2014\01. Traveller Bob\obj\Debug\01. Traveller Bob.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 19 December 2014\01. Traveller Bob\obj\Debug\_01.Traveller_Bob.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 19 December 2014\01. Traveller Bob\obj\Debug\_01.Traveller_Bob.pdb

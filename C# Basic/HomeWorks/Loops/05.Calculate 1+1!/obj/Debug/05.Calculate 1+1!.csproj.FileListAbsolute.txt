@@ -1,0 +1,6 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\05.Calculate 1+1!\bin\Debug\05.Calculate 1+1!.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\05.Calculate 1+1!\bin\Debug\05.Calculate 1+1!.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\05.Calculate 1+1!\bin\Debug\05.Calculate 1+1!.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\05.Calculate 1+1!\obj\Debug\05.Calculate 1+1!.csprojResolveAssemblyReference.cache
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\05.Calculate 1+1!\obj\Debug\05.Calculate 1+1!.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\05.Calculate 1+1!\obj\Debug\05.Calculate 1+1!.pdb

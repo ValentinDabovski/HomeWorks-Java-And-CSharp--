@@ -1,0 +1,6 @@
+C:\Users\val\documents\visual studio 2015\Projects\Basics Exam 25 July 2014 Morning\03.lettersAndNumbers\bin\Debug\03.lettersAndNumbers.exe.config
+C:\Users\val\documents\visual studio 2015\Projects\Basics Exam 25 July 2014 Morning\03.lettersAndNumbers\bin\Debug\03.lettersAndNumbers.exe
+C:\Users\val\documents\visual studio 2015\Projects\Basics Exam 25 July 2014 Morning\03.lettersAndNumbers\bin\Debug\03.lettersAndNumbers.pdb
+C:\Users\val\documents\visual studio 2015\Projects\Basics Exam 25 July 2014 Morning\03.lettersAndNumbers\obj\Debug\03.lettersAndNumbers.csprojResolveAssemblyReference.cache
+C:\Users\val\documents\visual studio 2015\Projects\Basics Exam 25 July 2014 Morning\03.lettersAndNumbers\obj\Debug\03.lettersAndNumbers.exe
+C:\Users\val\documents\visual studio 2015\Projects\Basics Exam 25 July 2014 Morning\03.lettersAndNumbers\obj\Debug\03.lettersAndNumbers.pdb

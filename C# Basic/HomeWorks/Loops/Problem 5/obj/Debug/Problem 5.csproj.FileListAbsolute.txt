@@ -1,0 +1,6 @@
+C:\Users\123\documents\visual studio 2015\Projects\Loops\Problem 5\bin\Debug\Problem 5.exe.config
+C:\Users\123\documents\visual studio 2015\Projects\Loops\Problem 5\obj\Debug\Problem 5.exe
+C:\Users\123\documents\visual studio 2015\Projects\Loops\Problem 5\obj\Debug\Problem 5.pdb
+C:\Users\123\documents\visual studio 2015\Projects\Loops\Problem 5\bin\Debug\Problem 5.exe
+C:\Users\123\documents\visual studio 2015\Projects\Loops\Problem 5\bin\Debug\Problem 5.pdb
+C:\Users\123\documents\visual studio 2015\Projects\Loops\Problem 5\obj\Debug\Problem 5.csprojResolveAssemblyReference.cache

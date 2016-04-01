@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Csharp Basic Exam 29 March 2015\02. BasketBattle\bin\Debug\_02.BasketBattle.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Csharp Basic Exam 29 March 2015\02. BasketBattle\bin\Debug\_02.BasketBattle.exe
+c:\users\val\documents\visual studio 2015\Projects\Csharp Basic Exam 29 March 2015\02. BasketBattle\bin\Debug\_02.BasketBattle.pdb
+c:\users\val\documents\visual studio 2015\Projects\Csharp Basic Exam 29 March 2015\02. BasketBattle\obj\Debug\_02.BasketBattle.exe
+c:\users\val\documents\visual studio 2015\Projects\Csharp Basic Exam 29 March 2015\02. BasketBattle\obj\Debug\_02.BasketBattle.pdb
+c:\users\val\documents\visual studio 2015\Projects\Csharp Basic Exam 29 March 2015\02. BasketBattle\obj\Debug\02. BasketBattle.csprojResolveAssemblyReference.cache

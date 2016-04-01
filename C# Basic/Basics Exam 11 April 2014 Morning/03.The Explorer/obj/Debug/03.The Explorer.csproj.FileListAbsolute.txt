@@ -1,0 +1,5 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Morning\03.The Explorer\bin\Debug\03.The Explorer.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Morning\03.The Explorer\bin\Debug\03.The Explorer.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Morning\03.The Explorer\bin\Debug\03.The Explorer.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Morning\03.The Explorer\obj\Debug\03.The Explorer.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Morning\03.The Explorer\obj\Debug\03.The Explorer.pdb

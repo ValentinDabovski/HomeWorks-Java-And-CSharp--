@@ -1,0 +1,6 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\03.Sunglass\bin\Debug\03.Sunglass.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\03.Sunglass\bin\Debug\03.Sunglass.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\03.Sunglass\bin\Debug\03.Sunglass.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\03.Sunglass\obj\Debug\03.Sunglass.csprojResolveAssemblyReference.cache
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\03.Sunglass\obj\Debug\03.Sunglass.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\03.Sunglass\obj\Debug\03.Sunglass.pdb

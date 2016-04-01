@@ -1,0 +1,6 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\King of Thieves\bin\Debug\King of Thieves.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\King of Thieves\bin\Debug\King of Thieves.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\King of Thieves\bin\Debug\King of Thieves.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\King of Thieves\obj\Debug\19.King of Thieves.csprojResolveAssemblyReference.cache
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\King of Thieves\obj\Debug\King of Thieves.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\King of Thieves\obj\Debug\King of Thieves.pdb

@@ -1,0 +1,5 @@
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Quotes in Strings\bin\Debug\Quotes in Strings.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Quotes in Strings\bin\Debug\Quotes in Strings.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Quotes in Strings\bin\Debug\Quotes in Strings.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Quotes in Strings\obj\Debug\Quotes in Strings.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Quotes in Strings\obj\Debug\Quotes in Strings.pdb

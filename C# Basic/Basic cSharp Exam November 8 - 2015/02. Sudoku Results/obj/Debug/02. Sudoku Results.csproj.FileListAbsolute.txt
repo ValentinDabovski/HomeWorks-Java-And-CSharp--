@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\02. Sudoku Results\bin\Debug\_02.Sudoku_Results.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\02. Sudoku Results\bin\Debug\_02.Sudoku_Results.exe
+c:\users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\02. Sudoku Results\bin\Debug\_02.Sudoku_Results.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\02. Sudoku Results\obj\Debug\_02.Sudoku_Results.exe
+c:\users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\02. Sudoku Results\obj\Debug\_02.Sudoku_Results.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\02. Sudoku Results\obj\Debug\02. Sudoku Results.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Csharp Basic Exam 29 March 2015\01. Torrent Pirate\bin\Debug\_01.Torrent_Pirate.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Csharp Basic Exam 29 March 2015\01. Torrent Pirate\bin\Debug\_01.Torrent_Pirate.exe
+c:\users\val\documents\visual studio 2015\Projects\Csharp Basic Exam 29 March 2015\01. Torrent Pirate\bin\Debug\_01.Torrent_Pirate.pdb
+c:\users\val\documents\visual studio 2015\Projects\Csharp Basic Exam 29 March 2015\01. Torrent Pirate\obj\Debug\01. Torrent Pirate.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Csharp Basic Exam 29 March 2015\01. Torrent Pirate\obj\Debug\_01.Torrent_Pirate.exe
+c:\users\val\documents\visual studio 2015\Projects\Csharp Basic Exam 29 March 2015\01. Torrent Pirate\obj\Debug\_01.Torrent_Pirate.pdb

@@ -1,0 +1,5 @@
+c:\users\123\documents\visual studio 2013\Projects\Square Root\bin\Debug\Square Root.exe.config
+c:\users\123\documents\visual studio 2013\Projects\Square Root\bin\Debug\Square Root.exe
+c:\users\123\documents\visual studio 2013\Projects\Square Root\bin\Debug\Square Root.pdb
+c:\users\123\documents\visual studio 2013\Projects\Square Root\obj\Debug\Square Root.exe
+c:\users\123\documents\visual studio 2013\Projects\Square Root\obj\Debug\Square Root.pdb

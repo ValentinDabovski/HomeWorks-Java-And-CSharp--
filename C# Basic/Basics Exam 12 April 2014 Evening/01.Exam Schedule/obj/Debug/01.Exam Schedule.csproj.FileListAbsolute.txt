@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Evening\01.Exam Schedule\bin\Debug\01.Exam Schedule.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Evening\01.Exam Schedule\bin\Debug\01.Exam Schedule.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Evening\01.Exam Schedule\bin\Debug\01.Exam Schedule.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Evening\01.Exam Schedule\obj\Debug\01.Exam Schedule.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Evening\01.Exam Schedule\obj\Debug\01.Exam Schedule.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Evening\01.Exam Schedule\obj\Debug\01.Exam Schedule.pdb

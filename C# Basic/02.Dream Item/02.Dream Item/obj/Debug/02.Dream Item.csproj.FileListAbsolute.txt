@@ -1,0 +1,12 @@
+c:\users\val\documents\visual studio 2015\Projects\02.Dream Item\02.Dream Item\bin\Debug\02.Dream Item.exe.config
+c:\users\val\documents\visual studio 2015\Projects\02.Dream Item\02.Dream Item\bin\Debug\02.Dream Item.exe
+c:\users\val\documents\visual studio 2015\Projects\02.Dream Item\02.Dream Item\bin\Debug\02.Dream Item.pdb
+c:\users\val\documents\visual studio 2015\Projects\02.Dream Item\02.Dream Item\obj\Debug\02.Dream Item.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\02.Dream Item\02.Dream Item\obj\Debug\02.Dream Item.exe
+c:\users\val\documents\visual studio 2015\Projects\02.Dream Item\02.Dream Item\obj\Debug\02.Dream Item.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\02.Dream Item\02.Dream Item\bin\Debug\02.Dream Item.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\02.Dream Item\02.Dream Item\obj\Debug\02.Dream Item.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\02.Dream Item\02.Dream Item\obj\Debug\02.Dream Item.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\02.Dream Item\02.Dream Item\bin\Debug\02.Dream Item.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\02.Dream Item\02.Dream Item\bin\Debug\02.Dream Item.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\02.Dream Item\02.Dream Item\obj\Debug\02.Dream Item.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\ExchangeIfGrater\bin\Debug\ExchangeIfGrater.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\ExchangeIfGrater\obj\Debug\ExchangeIfGrater.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\ExchangeIfGrater\obj\Debug\ExchangeIfGrater.pdb

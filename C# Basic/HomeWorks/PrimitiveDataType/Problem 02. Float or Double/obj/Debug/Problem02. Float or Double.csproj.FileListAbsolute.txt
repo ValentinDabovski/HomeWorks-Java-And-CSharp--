@@ -1,0 +1,5 @@
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem02. Float or Double\bin\Debug\Problem02.Float_or_Double.exe.config
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem02. Float or Double\bin\Debug\Problem02.Float_or_Double.exe
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem02. Float or Double\bin\Debug\Problem02.Float_or_Double.pdb
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem02. Float or Double\obj\Debug\Problem02.Float_or_Double.exe
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem02. Float or Double\obj\Debug\Problem02.Float_or_Double.pdb

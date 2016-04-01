@@ -1,0 +1,5 @@
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Comparing Floats\bin\Debug\Comparing Floats.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Comparing Floats\bin\Debug\Comparing Floats.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Comparing Floats\bin\Debug\Comparing Floats.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Comparing Floats\obj\Debug\Comparing Floats.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Comparing Floats\obj\Debug\Comparing Floats.pdb

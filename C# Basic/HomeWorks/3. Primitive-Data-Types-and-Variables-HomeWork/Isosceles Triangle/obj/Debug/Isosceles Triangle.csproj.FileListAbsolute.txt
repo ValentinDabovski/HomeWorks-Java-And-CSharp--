@@ -1,0 +1,6 @@
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Isosceles Triangle\bin\Debug\Isosceles Triangle.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Isosceles Triangle\bin\Debug\Isosceles Triangle.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Isosceles Triangle\bin\Debug\Isosceles Triangle.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Isosceles Triangle\obj\Debug\Isosceles Triangle.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Isosceles Triangle\obj\Debug\Isosceles Triangle.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Isosceles Triangle\obj\Debug\Isosceles Triangle.csprojResolveAssemblyReference.cache

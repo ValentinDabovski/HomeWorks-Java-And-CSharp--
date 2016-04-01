@@ -1,0 +1,5 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\02.HalfSum\bin\Debug\02.HalfSum.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\02.HalfSum\bin\Debug\02.HalfSum.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\02.HalfSum\bin\Debug\02.HalfSum.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\02.HalfSum\obj\Debug\02.HalfSum.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\02.HalfSum\obj\Debug\02.HalfSum.pdb

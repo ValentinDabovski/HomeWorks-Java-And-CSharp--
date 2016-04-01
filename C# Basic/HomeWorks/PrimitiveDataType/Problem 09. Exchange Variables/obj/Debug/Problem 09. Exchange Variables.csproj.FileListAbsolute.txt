@@ -1,0 +1,5 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 09. Exchange Variables\bin\Debug\Problem_09.Exchange_Variables.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 09. Exchange Variables\bin\Debug\Problem_09.Exchange_Variables.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 09. Exchange Variables\bin\Debug\Problem_09.Exchange_Variables.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 09. Exchange Variables\obj\Debug\Problem_09.Exchange_Variables.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 09. Exchange Variables\obj\Debug\Problem_09.Exchange_Variables.pdb

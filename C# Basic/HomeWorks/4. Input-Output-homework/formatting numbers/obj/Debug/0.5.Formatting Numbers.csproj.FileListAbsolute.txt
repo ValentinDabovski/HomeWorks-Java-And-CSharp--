@@ -1,0 +1,3 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\formatting numbers\bin\Debug\formatting numbers.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\formatting numbers\obj\Debug\formatting numbers.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\formatting numbers\obj\Debug\formatting numbers.pdb

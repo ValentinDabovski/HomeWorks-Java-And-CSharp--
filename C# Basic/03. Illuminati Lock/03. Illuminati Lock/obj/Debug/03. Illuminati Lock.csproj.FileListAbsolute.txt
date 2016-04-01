@@ -1,0 +1,12 @@
+c:\users\val\documents\visual studio 2015\Projects\03. Illuminati Lock\03. Illuminati Lock\bin\Debug\_03.Illuminati_Lock.exe.config
+c:\users\val\documents\visual studio 2015\Projects\03. Illuminati Lock\03. Illuminati Lock\bin\Debug\_03.Illuminati_Lock.exe
+c:\users\val\documents\visual studio 2015\Projects\03. Illuminati Lock\03. Illuminati Lock\bin\Debug\_03.Illuminati_Lock.pdb
+c:\users\val\documents\visual studio 2015\Projects\03. Illuminati Lock\03. Illuminati Lock\obj\Debug\03. Illuminati Lock.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\03. Illuminati Lock\03. Illuminati Lock\obj\Debug\_03.Illuminati_Lock.exe
+c:\users\val\documents\visual studio 2015\Projects\03. Illuminati Lock\03. Illuminati Lock\obj\Debug\_03.Illuminati_Lock.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\03. Illuminati Lock\03. Illuminati Lock\bin\Debug\_03.Illuminati_Lock.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\03. Illuminati Lock\03. Illuminati Lock\obj\Debug\_03.Illuminati_Lock.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\03. Illuminati Lock\03. Illuminati Lock\obj\Debug\_03.Illuminati_Lock.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\03. Illuminati Lock\03. Illuminati Lock\bin\Debug\_03.Illuminati_Lock.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\03. Illuminati Lock\03. Illuminati Lock\bin\Debug\_03.Illuminati_Lock.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\03. Illuminati Lock\03. Illuminati Lock\obj\Debug\03. Illuminati Lock.csprojResolveAssemblyReference.cache

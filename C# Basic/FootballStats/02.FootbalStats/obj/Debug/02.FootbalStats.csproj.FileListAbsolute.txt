@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\FootballStats\02.FootbalStats\bin\Debug\02.FootbalStats.exe.config
+c:\users\val\documents\visual studio 2015\Projects\FootballStats\02.FootbalStats\bin\Debug\02.FootbalStats.exe
+c:\users\val\documents\visual studio 2015\Projects\FootballStats\02.FootbalStats\bin\Debug\02.FootbalStats.pdb
+c:\users\val\documents\visual studio 2015\Projects\FootballStats\02.FootbalStats\obj\Debug\02.FootbalStats.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\FootballStats\02.FootbalStats\obj\Debug\02.FootbalStats.exe
+c:\users\val\documents\visual studio 2015\Projects\FootballStats\02.FootbalStats\obj\Debug\02.FootbalStats.pdb

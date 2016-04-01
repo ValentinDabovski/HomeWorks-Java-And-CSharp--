@@ -1,0 +1,5 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\09.Matrix of numbers\bin\Debug\09.Matrix of numbers.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\09.Matrix of numbers\bin\Debug\09.Matrix of numbers.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\09.Matrix of numbers\bin\Debug\09.Matrix of numbers.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\09.Matrix of numbers\obj\Debug\09.Matrix of numbers.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\09.Matrix of numbers\obj\Debug\09.Matrix of numbers.pdb

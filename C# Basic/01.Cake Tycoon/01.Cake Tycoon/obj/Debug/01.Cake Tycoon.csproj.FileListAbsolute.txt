@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\01.Cake Tycoon\01.Cake Tycoon\bin\Debug\01.Cake Tycoon.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\01.Cake Tycoon\bin\Debug\01.Cake Tycoon.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\01.Cake Tycoon\bin\Debug\01.Cake Tycoon.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\01.Cake Tycoon\obj\Debug\01.Cake Tycoon.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\01.Cake Tycoon\obj\Debug\01.Cake Tycoon.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\01.Cake Tycoon\obj\Debug\01.Cake Tycoon.csprojResolveAssemblyReference.cache

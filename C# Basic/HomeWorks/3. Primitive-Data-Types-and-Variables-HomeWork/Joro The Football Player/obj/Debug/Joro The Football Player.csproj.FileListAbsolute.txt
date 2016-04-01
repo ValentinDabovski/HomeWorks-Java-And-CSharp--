@@ -1,0 +1,6 @@
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Joro The Football Player\bin\Debug\Joro The Football Player.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Joro The Football Player\bin\Debug\Joro The Football Player.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Joro The Football Player\bin\Debug\Joro The Football Player.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Joro The Football Player\obj\Debug\Joro The Football Player.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Joro The Football Player\obj\Debug\Joro The Football Player.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Joro The Football Player\obj\Debug\Joro The Football Player.csprojResolveAssemblyReference.cache

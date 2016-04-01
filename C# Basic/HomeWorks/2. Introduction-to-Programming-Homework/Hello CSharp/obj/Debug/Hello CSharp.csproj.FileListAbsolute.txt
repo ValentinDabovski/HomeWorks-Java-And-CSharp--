@@ -1,0 +1,5 @@
+c:\users\123\documents\visual studio 2013\Projects\Hello CSharp\bin\Debug\Hello CSharp.exe.config
+c:\users\123\documents\visual studio 2013\Projects\Hello CSharp\bin\Debug\Hello CSharp.exe
+c:\users\123\documents\visual studio 2013\Projects\Hello CSharp\bin\Debug\Hello CSharp.pdb
+c:\users\123\documents\visual studio 2013\Projects\Hello CSharp\obj\Debug\Hello CSharp.exe
+c:\users\123\documents\visual studio 2013\Projects\Hello CSharp\obj\Debug\Hello CSharp.pdb

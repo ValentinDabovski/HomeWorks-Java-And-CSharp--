@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 11 April 2014 Evening\02.Illuminati\bin\Debug\02.Illuminati.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 11 April 2014 Evening\02.Illuminati\bin\Debug\02.Illuminati.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 11 April 2014 Evening\02.Illuminati\bin\Debug\02.Illuminati.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 11 April 2014 Evening\02.Illuminati\obj\Debug\02.Illuminati.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 11 April 2014 Evening\02.Illuminati\obj\Debug\02.Illuminati.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 11 April 2014 Evening\02.Illuminati\obj\Debug\02.Illuminati.csprojResolveAssemblyReference.cache

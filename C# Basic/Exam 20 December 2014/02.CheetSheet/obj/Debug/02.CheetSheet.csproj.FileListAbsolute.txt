@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Exam 20 December 2014\02.CheetSheet\bin\Debug\02.CheetSheet.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Exam 20 December 2014\02.CheetSheet\bin\Debug\02.CheetSheet.exe
+c:\users\val\documents\visual studio 2015\Projects\Exam 20 December 2014\02.CheetSheet\bin\Debug\02.CheetSheet.pdb
+c:\users\val\documents\visual studio 2015\Projects\Exam 20 December 2014\02.CheetSheet\obj\Debug\02.CheetSheet.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Exam 20 December 2014\02.CheetSheet\obj\Debug\02.CheetSheet.exe
+c:\users\val\documents\visual studio 2015\Projects\Exam 20 December 2014\02.CheetSheet\obj\Debug\02.CheetSheet.pdb

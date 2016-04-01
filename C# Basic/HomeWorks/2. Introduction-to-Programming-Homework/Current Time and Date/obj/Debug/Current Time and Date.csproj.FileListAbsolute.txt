@@ -1,0 +1,6 @@
+c:\users\123\documents\visual studio 2013\Projects\Current Time and Date\bin\Debug\Current Time and Date.exe.config
+c:\users\123\documents\visual studio 2013\Projects\Current Time and Date\obj\Debug\Current Time and Date.csprojResolveAssemblyReference.cache
+c:\users\123\documents\visual studio 2013\Projects\Current Time and Date\bin\Debug\Current Time and Date.exe
+c:\users\123\documents\visual studio 2013\Projects\Current Time and Date\bin\Debug\Current Time and Date.pdb
+c:\users\123\documents\visual studio 2013\Projects\Current Time and Date\obj\Debug\Current Time and Date.exe
+c:\users\123\documents\visual studio 2013\Projects\Current Time and Date\obj\Debug\Current Time and Date.pdb

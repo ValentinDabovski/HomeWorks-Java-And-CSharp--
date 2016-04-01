@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Traveller Bob", "01. Traveller Bob\01. Traveller Bob.csproj", "{34F2E3F8-47DA-4AC3-A626-70E9DE1CF6C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SpyHard", "02.SpyHard\02.SpyHard.csproj", "{BF1F83C4-7D28-416A-8C4F-ABC6034271EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F2E3F8-47DA-4AC3-A626-70E9DE1CF6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F2E3F8-47DA-4AC3-A626-70E9DE1CF6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F2E3F8-47DA-4AC3-A626-70E9DE1CF6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F2E3F8-47DA-4AC3-A626-70E9DE1CF6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF1F83C4-7D28-416A-8C4F-ABC6034271EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1F83C4-7D28-416A-8C4F-ABC6034271EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1F83C4-7D28-416A-8C4F-ABC6034271EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1F83C4-7D28-416A-8C4F-ABC6034271EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

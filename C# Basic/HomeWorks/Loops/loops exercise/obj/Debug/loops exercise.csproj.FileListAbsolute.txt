@@ -1,0 +1,6 @@
+C:\Users\123\documents\visual studio 2015\Projects\Loops\loops exercise\bin\Debug\loops exercise.exe.config
+C:\Users\123\documents\visual studio 2015\Projects\Loops\loops exercise\bin\Debug\loops exercise.exe
+C:\Users\123\documents\visual studio 2015\Projects\Loops\loops exercise\bin\Debug\loops exercise.pdb
+C:\Users\123\documents\visual studio 2015\Projects\Loops\loops exercise\obj\Debug\loops exercise.csprojResolveAssemblyReference.cache
+C:\Users\123\documents\visual studio 2015\Projects\Loops\loops exercise\obj\Debug\loops exercise.exe
+C:\Users\123\documents\visual studio 2015\Projects\Loops\loops exercise\obj\Debug\loops exercise.pdb

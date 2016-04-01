@@ -1,0 +1,5 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\04.Print Deck of 52 Cards\bin\Debug\04.Print Deck of 52 Cards.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\04.Print Deck of 52 Cards\bin\Debug\04.Print Deck of 52 Cards.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\04.Print Deck of 52 Cards\bin\Debug\04.Print Deck of 52 Cards.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\04.Print Deck of 52 Cards\obj\Debug\04.Print Deck of 52 Cards.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\04.Print Deck of 52 Cards\obj\Debug\04.Print Deck of 52 Cards.pdb

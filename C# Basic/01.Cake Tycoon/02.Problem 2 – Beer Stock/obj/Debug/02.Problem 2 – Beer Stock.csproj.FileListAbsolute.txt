@@ -1,0 +1,5 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\02.Problem 2 – Beer Stock\bin\Debug\02.Problem 2 – Beer Stock.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\02.Problem 2 – Beer Stock\bin\Debug\02.Problem 2 – Beer Stock.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\02.Problem 2 – Beer Stock\bin\Debug\02.Problem 2 – Beer Stock.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\02.Problem 2 – Beer Stock\obj\Debug\02.Problem 2 – Beer Stock.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\02.Problem 2 – Beer Stock\obj\Debug\02.Problem 2 – Beer Stock.pdb

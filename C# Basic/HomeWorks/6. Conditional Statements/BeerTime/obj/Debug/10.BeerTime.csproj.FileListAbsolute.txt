@@ -1,0 +1,3 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\BeerTime\bin\Debug\BeerTime.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\BeerTime\obj\Debug\BeerTime.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\BeerTime\obj\Debug\BeerTime.pdb

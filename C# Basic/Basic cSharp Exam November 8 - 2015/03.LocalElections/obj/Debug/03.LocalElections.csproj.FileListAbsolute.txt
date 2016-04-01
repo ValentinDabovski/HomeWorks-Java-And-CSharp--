@@ -1,0 +1,6 @@
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\03.LocalElections\bin\Debug\03.LocalElections.exe.config
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\03.LocalElections\bin\Debug\03.LocalElections.exe
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\03.LocalElections\bin\Debug\03.LocalElections.pdb
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\03.LocalElections\obj\Debug\03.LocalElections.csprojResolveAssemblyReference.cache
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\03.LocalElections\obj\Debug\03.LocalElections.exe
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\03.LocalElections\obj\Debug\03.LocalElections.pdb

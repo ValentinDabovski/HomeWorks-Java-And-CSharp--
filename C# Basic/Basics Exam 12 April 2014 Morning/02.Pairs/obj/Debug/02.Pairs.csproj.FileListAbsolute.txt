@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Morning\02.Pairs\bin\Debug\02.Pairs.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Morning\02.Pairs\bin\Debug\02.Pairs.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Morning\02.Pairs\bin\Debug\02.Pairs.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Morning\02.Pairs\obj\Debug\02.Pairs.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Morning\02.Pairs\obj\Debug\02.Pairs.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Morning\02.Pairs\obj\Debug\02.Pairs.pdb

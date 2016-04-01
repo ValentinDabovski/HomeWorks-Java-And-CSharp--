@@ -1,0 +1,6 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\03.Min, Max, Sum and Average of N Numbers\bin\Debug\03.Min, Max, Sum and Average of N Numbers.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\03.Min, Max, Sum and Average of N Numbers\bin\Debug\03.Min, Max, Sum and Average of N Numbers.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\03.Min, Max, Sum and Average of N Numbers\bin\Debug\03.Min, Max, Sum and Average of N Numbers.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\03.Min, Max, Sum and Average of N Numbers\obj\Debug\03.Min, Max, Sum and Average of N Numbers.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\03.Min, Max, Sum and Average of N Numbers\obj\Debug\03.Min, Max, Sum and Average of N Numbers.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\03.Min, Max, Sum and Average of N Numbers\obj\Debug\03.Min, Max, Sum and Average of N Numbers.csprojResolveAssemblyReference.cache

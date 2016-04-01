@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics November 2014 Lab\01.Account Information\bin\Debug\01.Account Information.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics November 2014 Lab\01.Account Information\bin\Debug\01.Account Information.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics November 2014 Lab\01.Account Information\bin\Debug\01.Account Information.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics November 2014 Lab\01.Account Information\obj\Debug\01.Account Information.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Basics November 2014 Lab\01.Account Information\obj\Debug\01.Account Information.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics November 2014 Lab\01.Account Information\obj\Debug\01.Account Information.pdb

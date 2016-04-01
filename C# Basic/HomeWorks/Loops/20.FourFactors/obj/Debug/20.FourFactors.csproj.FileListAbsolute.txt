@@ -1,0 +1,6 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\20.FourFactors\bin\Debug\20.FourFactors.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\20.FourFactors\bin\Debug\20.FourFactors.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\20.FourFactors\bin\Debug\20.FourFactors.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\20.FourFactors\obj\Debug\20.FourFactors.csprojResolveAssemblyReference.cache
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\20.FourFactors\obj\Debug\20.FourFactors.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\20.FourFactors\obj\Debug\20.FourFactors.pdb

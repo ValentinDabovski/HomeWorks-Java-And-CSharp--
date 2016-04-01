@@ -1,0 +1,5 @@
+C:\Users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Morning\03.Wine-Glass\bin\Debug\03.Wine-Glass.exe.config
+C:\Users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Morning\03.Wine-Glass\bin\Debug\03.Wine-Glass.exe
+C:\Users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Morning\03.Wine-Glass\bin\Debug\03.Wine-Glass.pdb
+C:\Users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Morning\03.Wine-Glass\obj\Debug\03.Wine-Glass.exe
+C:\Users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Morning\03.Wine-Glass\obj\Debug\03.Wine-Glass.pdb

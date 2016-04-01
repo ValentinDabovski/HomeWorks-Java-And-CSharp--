@@ -1,0 +1,7 @@
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\assemblies\App3.dll
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\assemblies\mscorlib.dll
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\assemblies\System.Core.dll
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\assemblies\System.dll
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\assemblies\System.Xml.dll
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\assemblies\System.Xml.Linq.dll

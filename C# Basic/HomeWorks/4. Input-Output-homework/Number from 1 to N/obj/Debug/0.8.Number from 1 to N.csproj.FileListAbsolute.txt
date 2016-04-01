@@ -1,0 +1,6 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Number from 1 to N\bin\Debug\Number from 1 to N.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Number from 1 to N\obj\Debug\Number from 1 to N.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Number from 1 to N\obj\Debug\Number from 1 to N.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Number from 1 to N\bin\Debug\Number from 1 to N.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Number from 1 to N\obj\Debug\Number from 1 to N.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Number from 1 to N\obj\Debug\Number from 1 to N.pdb

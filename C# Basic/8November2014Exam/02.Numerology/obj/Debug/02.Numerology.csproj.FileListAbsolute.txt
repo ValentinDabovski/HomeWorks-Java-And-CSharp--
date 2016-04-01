@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\8November2014Exam\02.Numerology\bin\Debug\02.Numerology.exe.config
+c:\users\val\documents\visual studio 2015\Projects\8November2014Exam\02.Numerology\bin\Debug\02.Numerology.exe
+c:\users\val\documents\visual studio 2015\Projects\8November2014Exam\02.Numerology\bin\Debug\02.Numerology.pdb
+c:\users\val\documents\visual studio 2015\Projects\8November2014Exam\02.Numerology\obj\Debug\02.Numerology.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\8November2014Exam\02.Numerology\obj\Debug\02.Numerology.exe
+c:\users\val\documents\visual studio 2015\Projects\8November2014Exam\02.Numerology\obj\Debug\02.Numerology.pdb

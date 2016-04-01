@@ -1,0 +1,2 @@
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config

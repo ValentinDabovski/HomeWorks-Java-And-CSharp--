@@ -1,0 +1,3 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\Double-StringAndInt\bin\Debug\Double-StringAndInt.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\Double-StringAndInt\obj\Debug\Double-StringAndInt.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\Double-StringAndInt\obj\Debug\Double-StringAndInt.pdb

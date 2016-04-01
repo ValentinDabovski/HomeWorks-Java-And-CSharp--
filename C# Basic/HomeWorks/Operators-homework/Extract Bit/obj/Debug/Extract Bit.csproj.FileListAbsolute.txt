@@ -1,0 +1,9 @@
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Extract Bit\bin\Debug\Extract Bit.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Extract Bit\bin\Debug\Extract Bit.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Extract Bit\bin\Debug\Extract Bit.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Extract Bit\obj\Debug\Extract Bit.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Extract Bit\obj\Debug\Extract Bit.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Extract Bit\obj\Debug\Extract Bit.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Extract Bit\bin\Debug\Extract Bit.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Extract Bit\obj\Debug\Extract Bit.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Extract Bit\obj\Debug\Extract Bit.pdb

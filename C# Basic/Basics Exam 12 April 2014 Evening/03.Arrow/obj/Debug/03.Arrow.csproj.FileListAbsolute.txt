@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Evening\03.Arrow\bin\Debug\03.Arrow.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Evening\03.Arrow\bin\Debug\03.Arrow.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Evening\03.Arrow\bin\Debug\03.Arrow.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Evening\03.Arrow\obj\Debug\03.Arrow.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Evening\03.Arrow\obj\Debug\03.Arrow.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Evening\03.Arrow\obj\Debug\03.Arrow.pdb

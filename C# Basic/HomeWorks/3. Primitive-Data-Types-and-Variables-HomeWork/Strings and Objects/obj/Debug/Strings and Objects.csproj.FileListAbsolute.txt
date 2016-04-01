@@ -1,0 +1,5 @@
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Strings and Objects\bin\Debug\Strings and Objects.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Strings and Objects\bin\Debug\Strings and Objects.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Strings and Objects\bin\Debug\Strings and Objects.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Strings and Objects\obj\Debug\Strings and Objects.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Strings and Objects\obj\Debug\Strings and Objects.pdb

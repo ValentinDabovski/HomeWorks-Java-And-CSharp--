@@ -1,0 +1,5 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 08 Isosceles Triangle\bin\Debug\Problem 08 Isosceles Triangle.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 08 Isosceles Triangle\bin\Debug\Problem 08 Isosceles Triangle.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 08 Isosceles Triangle\bin\Debug\Problem 08 Isosceles Triangle.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 08 Isosceles Triangle\obj\Debug\Problem 08 Isosceles Triangle.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 08 Isosceles Triangle\obj\Debug\Problem 08 Isosceles Triangle.pdb

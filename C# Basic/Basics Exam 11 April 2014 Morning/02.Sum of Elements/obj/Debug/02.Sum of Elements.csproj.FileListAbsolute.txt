@@ -1,0 +1,5 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Morning\02.Sum of Elements\bin\Debug\02.Sum of Elements.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Morning\02.Sum of Elements\bin\Debug\02.Sum of Elements.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Morning\02.Sum of Elements\bin\Debug\02.Sum of Elements.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Morning\02.Sum of Elements\obj\Debug\02.Sum of Elements.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Morning\02.Sum of Elements\obj\Debug\02.Sum of Elements.pdb

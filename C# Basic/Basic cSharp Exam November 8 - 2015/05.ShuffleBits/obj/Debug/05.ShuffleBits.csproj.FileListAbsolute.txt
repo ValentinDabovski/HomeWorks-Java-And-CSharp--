@@ -1,0 +1,6 @@
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\05.ShuffleBits\bin\Debug\05.ShuffleBits.exe.config
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\05.ShuffleBits\bin\Debug\05.ShuffleBits.exe
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\05.ShuffleBits\bin\Debug\05.ShuffleBits.pdb
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\05.ShuffleBits\obj\Debug\05.ShuffleBits.exe
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\05.ShuffleBits\obj\Debug\05.ShuffleBits.pdb
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\05.ShuffleBits\obj\Debug\05.ShuffleBits.csprojResolveAssemblyReference.cache

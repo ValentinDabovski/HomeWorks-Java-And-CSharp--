@@ -1,0 +1,13 @@
+c:\users\val\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\val\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\val\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\val\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\val\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.CyrilicToEnglish\CyrilicToEnglish\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.CyrilicToEnglish\CyrilicToEnglish\obj\Debug\ConsoleApplication3.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.CyrilicToEnglish\CyrilicToEnglish\bin\Debug\ConsoleApplication3.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.CyrilicToEnglish\CyrilicToEnglish\bin\Debug\ConsoleApplication3.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.CyrilicToEnglish\CyrilicToEnglish\obj\Debug\cyrilic to english.csprojResolveAssemblyReference.cache
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.CyrilicToEnglish\CyrilicToEnglish\obj\Debug\ConsoleApplication3.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.CyrilicToEnglish\CyrilicToEnglish\obj\Debug\ConsoleApplication3.cyrilic_to_english.resources
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.CyrilicToEnglish\CyrilicToEnglish\obj\Debug\cyrilic to english.csproj.GenerateResource.Cache

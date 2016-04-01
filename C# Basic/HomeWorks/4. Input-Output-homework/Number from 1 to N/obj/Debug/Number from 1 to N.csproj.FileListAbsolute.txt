@@ -1,0 +1,6 @@
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Number from 1 to N\bin\Debug\Number from 1 to N.exe.config
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Number from 1 to N\bin\Debug\Number from 1 to N.exe
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Number from 1 to N\bin\Debug\Number from 1 to N.pdb
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Number from 1 to N\obj\Debug\Number from 1 to N.exe
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Number from 1 to N\obj\Debug\Number from 1 to N.pdb
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Number from 1 to N\obj\Debug\Number from 1 to N.csprojResolveAssemblyReference.cache

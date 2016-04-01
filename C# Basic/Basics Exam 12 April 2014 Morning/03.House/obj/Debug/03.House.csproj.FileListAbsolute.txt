@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Morning\03.House\bin\Debug\03.House.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Morning\03.House\bin\Debug\03.House.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Morning\03.House\bin\Debug\03.House.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Morning\03.House\obj\Debug\03.House.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Morning\03.House\obj\Debug\03.House.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 12 April 2014 Morning\03.House\obj\Debug\03.House.pdb

@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\01. Prospect In Hospitality\bin\Debug\_01.Prospect_In_Hospitality.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\01. Prospect In Hospitality\bin\Debug\_01.Prospect_In_Hospitality.exe
+c:\users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\01. Prospect In Hospitality\bin\Debug\_01.Prospect_In_Hospitality.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\01. Prospect In Hospitality\obj\Debug\01. Prospect In Hospitality.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\01. Prospect In Hospitality\obj\Debug\_01.Prospect_In_Hospitality.exe
+c:\users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\01. Prospect In Hospitality\obj\Debug\_01.Prospect_In_Hospitality.pdb

@@ -1,0 +1,6 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\11. Number as Words\bin\Debug\_11.Number_as_Words.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\11. Number as Words\bin\Debug\_11.Number_as_Words.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\11. Number as Words\bin\Debug\_11.Number_as_Words.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\11. Number as Words\obj\Debug\11. Number as Words.csprojResolveAssemblyReference.cache
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\11. Number as Words\obj\Debug\_11.Number_as_Words.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\6. Conditional Statements\11. Number as Words\obj\Debug\_11.Number_as_Words.pdb

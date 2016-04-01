@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Melons and Watermelons", "01.Melons and Watermelons\01.Melons and Watermelons.csproj", "{6EB5F4A3-C3D5-4EAD-A1C3-B6DF121B5988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Letters, Symbols, Numbers", "02.Letters, Symbols, Numbers\02.Letters, Symbols, Numbers.csproj", "{32F8868D-B304-43B9-8E57-480BF52191F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.lettersAndNumbers", "03.lettersAndNumbers\03.lettersAndNumbers.csproj", "{BB86A4E6-0C1D-477A-89DB-50347ED46BBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Panda Scotland Flag", "03.Panda Scotland Flag\03.Panda Scotland Flag.csproj", "{50C5FB94-F903-4E26-B270-BBEED6A3CA6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Morse-Code", "04.Morse-Code\04.Morse-Code.csproj", "{138EFE90-74BC-4D72-B30E-24DD21515C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB5F4A3-C3D5-4EAD-A1C3-B6DF121B5988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB5F4A3-C3D5-4EAD-A1C3-B6DF121B5988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB5F4A3-C3D5-4EAD-A1C3-B6DF121B5988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB5F4A3-C3D5-4EAD-A1C3-B6DF121B5988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F8868D-B304-43B9-8E57-480BF52191F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F8868D-B304-43B9-8E57-480BF52191F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F8868D-B304-43B9-8E57-480BF52191F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F8868D-B304-43B9-8E57-480BF52191F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB86A4E6-0C1D-477A-89DB-50347ED46BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB86A4E6-0C1D-477A-89DB-50347ED46BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB86A4E6-0C1D-477A-89DB-50347ED46BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB86A4E6-0C1D-477A-89DB-50347ED46BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C5FB94-F903-4E26-B270-BBEED6A3CA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C5FB94-F903-4E26-B270-BBEED6A3CA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C5FB94-F903-4E26-B270-BBEED6A3CA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C5FB94-F903-4E26-B270-BBEED6A3CA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{138EFE90-74BC-4D72-B30E-24DD21515C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138EFE90-74BC-4D72-B30E-24DD21515C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138EFE90-74BC-4D72-B30E-24DD21515C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138EFE90-74BC-4D72-B30E-24DD21515C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Evening\03.New House\bin\Debug\03.New House.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Evening\03.New House\bin\Debug\03.New House.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Evening\03.New House\bin\Debug\03.New House.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Evening\03.New House\obj\Debug\03.New House.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Basics Exam 11 April 2014 Evening\03.New House\obj\Debug\03.New House.pdb

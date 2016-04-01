@@ -1,0 +1,5 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 14 ASCII Table\bin\Debug\Problem 14 ASCII Table.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 14 ASCII Table\bin\Debug\Problem 14 ASCII Table.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 14 ASCII Table\bin\Debug\Problem 14 ASCII Table.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 14 ASCII Table\obj\Debug\Problem 14 ASCII Table.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\PrimitiveDataType\Problem 14 ASCII Table\obj\Debug\Problem 14 ASCII Table.pdb

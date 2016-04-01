@@ -1,0 +1,5 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 19 December 2014\02.SpyHard\bin\Debug\02.SpyHard.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 19 December 2014\02.SpyHard\bin\Debug\02.SpyHard.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 19 December 2014\02.SpyHard\bin\Debug\02.SpyHard.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 19 December 2014\02.SpyHard\obj\Debug\02.SpyHard.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 19 December 2014\02.SpyHard\obj\Debug\02.SpyHard.pdb

@@ -1,0 +1,6 @@
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Exchange Variable Values\bin\Debug\Exchange Variable Values.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Exchange Variable Values\bin\Debug\Exchange Variable Values.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Exchange Variable Values\bin\Debug\Exchange Variable Values.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Exchange Variable Values\obj\Debug\Exchange Variable Values.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Exchange Variable Values\obj\Debug\Exchange Variable Values.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Exchange Variable Values\obj\Debug\Exchange Variable Values.csprojResolveAssemblyReference.cache

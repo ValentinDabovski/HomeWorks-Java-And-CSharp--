@@ -1,0 +1,6 @@
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\04.Perfect Girlfriend\bin\Debug\04.Perfect Girlfriend.exe.config
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\04.Perfect Girlfriend\bin\Debug\04.Perfect Girlfriend.exe
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\04.Perfect Girlfriend\bin\Debug\04.Perfect Girlfriend.pdb
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\04.Perfect Girlfriend\obj\Debug\04.Perfect Girlfriend.csprojResolveAssemblyReference.cache
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\04.Perfect Girlfriend\obj\Debug\04.Perfect Girlfriend.exe
+C:\Users\val\documents\visual studio 2015\Projects\Basic cSharp Exam November 8 - 2015\04.Perfect Girlfriend\obj\Debug\04.Perfect Girlfriend.pdb

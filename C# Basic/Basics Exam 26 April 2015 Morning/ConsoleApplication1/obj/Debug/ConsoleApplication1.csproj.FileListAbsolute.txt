@@ -1,0 +1,5 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 26 April 2015 Morning\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 26 April 2015 Morning\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 26 April 2015 Morning\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 26 April 2015 Morning\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 26 April 2015 Morning\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

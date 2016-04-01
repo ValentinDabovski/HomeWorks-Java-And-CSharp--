@@ -1,0 +1,12 @@
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\FourDigit\bin\Debug\FourDigit.exe.config
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\FourDigit\bin\Debug\FourDigit.exe
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\FourDigit\bin\Debug\FourDigit.pdb
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\FourDigit\obj\Debug\FourDigit.exe
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\FourDigit\obj\Debug\FourDigit.pdb
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\FourDigit\obj\Debug\FourDigit.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\FourDigit\bin\Debug\FourDigit.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\FourDigit\obj\Debug\FourDigit.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\FourDigit\obj\Debug\FourDigit.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\FourDigit\bin\Debug\FourDigit.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\FourDigit\obj\Debug\FourDigit.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\FourDigit\obj\Debug\FourDigit.pdb

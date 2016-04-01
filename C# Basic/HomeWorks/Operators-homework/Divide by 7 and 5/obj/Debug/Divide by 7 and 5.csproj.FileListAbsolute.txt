@@ -1,0 +1,15 @@
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.exe.config
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.exe
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.pdb
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.exe
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.pdb
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators-homework\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators-homework\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators-homework\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.pdb

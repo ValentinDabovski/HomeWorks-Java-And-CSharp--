@@ -1,0 +1,6 @@
+c:\users\123\documents\visual studio 2013\Projects\Horrible Code\bin\Debug\Horrible Code.exe.config
+c:\users\123\documents\visual studio 2013\Projects\Horrible Code\bin\Debug\Horrible Code.exe
+c:\users\123\documents\visual studio 2013\Projects\Horrible Code\bin\Debug\Horrible Code.pdb
+c:\users\123\documents\visual studio 2013\Projects\Horrible Code\obj\Debug\Horrible Code.exe
+c:\users\123\documents\visual studio 2013\Projects\Horrible Code\obj\Debug\Horrible Code.pdb
+c:\users\123\documents\visual studio 2013\Projects\Horrible Code\obj\Debug\Horrible Code.csprojResolveAssemblyReference.cache

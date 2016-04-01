@@ -1,0 +1,6 @@
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\ASCII Table\bin\Debug\ASCII Table.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\ASCII Table\bin\Debug\ASCII Table.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\ASCII Table\bin\Debug\ASCII Table.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\ASCII Table\obj\Debug\ASCII Table.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\ASCII Table\obj\Debug\ASCII Table.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\ASCII Table\obj\Debug\ASCII Table.csprojResolveAssemblyReference.cache

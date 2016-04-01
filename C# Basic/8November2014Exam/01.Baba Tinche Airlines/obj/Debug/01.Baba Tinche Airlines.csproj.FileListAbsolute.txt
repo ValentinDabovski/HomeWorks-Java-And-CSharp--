@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\8November2014Exam\01.Baba Tinche Airlines\bin\Debug\01.Baba Tinche Airlines.exe.config
+c:\users\val\documents\visual studio 2015\Projects\8November2014Exam\01.Baba Tinche Airlines\bin\Debug\01.Baba Tinche Airlines.exe
+c:\users\val\documents\visual studio 2015\Projects\8November2014Exam\01.Baba Tinche Airlines\bin\Debug\01.Baba Tinche Airlines.pdb
+c:\users\val\documents\visual studio 2015\Projects\8November2014Exam\01.Baba Tinche Airlines\obj\Debug\01.Baba Tinche Airlines.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\8November2014Exam\01.Baba Tinche Airlines\obj\Debug\01.Baba Tinche Airlines.exe
+c:\users\val\documents\visual studio 2015\Projects\8November2014Exam\01.Baba Tinche Airlines\obj\Debug\01.Baba Tinche Airlines.pdb

@@ -1,0 +1,6 @@
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem 1. Declare Variabless\bin\Debug\Problem_1.Declare_Variabless.exe.config
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem 1. Declare Variabless\obj\Debug\Problem 1. Declare Variabless.csprojResolveAssemblyReference.cache
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem 1. Declare Variabless\bin\Debug\Problem_1.Declare_Variabless.exe
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem 1. Declare Variabless\bin\Debug\Problem_1.Declare_Variabless.pdb
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem 1. Declare Variabless\obj\Debug\Problem_1.Declare_Variabless.exe
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem 1. Declare Variabless\obj\Debug\Problem_1.Declare_Variabless.pdb

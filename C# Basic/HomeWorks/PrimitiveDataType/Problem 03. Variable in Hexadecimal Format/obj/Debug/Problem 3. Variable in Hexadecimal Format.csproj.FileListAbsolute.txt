@@ -1,0 +1,5 @@
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe.config
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+c:\users\123\documents\visual studio 2015\Projects\PrimitiveDataType\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb

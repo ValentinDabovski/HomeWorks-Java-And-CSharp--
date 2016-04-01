@@ -1,0 +1,6 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 3 Numbers\bin\Debug\Sum of 3 Numbers.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 3 Numbers\obj\Debug\Sum of 3 Numbers.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 3 Numbers\obj\Debug\Sum of 3 Numbers.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 3 Numbers\bin\Debug\Sum of 3 Numbers.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 3 Numbers\bin\Debug\Sum of 3 Numbers.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 3 Numbers\obj\Debug\0.1.Sum of 3 Numbers.csprojResolveAssemblyReference.cache

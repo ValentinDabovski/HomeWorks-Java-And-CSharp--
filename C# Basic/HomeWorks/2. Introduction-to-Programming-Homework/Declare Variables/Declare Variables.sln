@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Declare Variables", "Declare Variables.csproj", "{6E70B6A3-FED3-468B-B184-82C7C9CA0844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Float or Double", "..\Float or Double\Float or Double.csproj", "{CA4A846B-229A-4EF0-89BC-36A4D45B436D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E70B6A3-FED3-468B-B184-82C7C9CA0844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E70B6A3-FED3-468B-B184-82C7C9CA0844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E70B6A3-FED3-468B-B184-82C7C9CA0844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E70B6A3-FED3-468B-B184-82C7C9CA0844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA4A846B-229A-4EF0-89BC-36A4D45B436D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4A846B-229A-4EF0-89BC-36A4D45B436D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4A846B-229A-4EF0-89BC-36A4D45B436D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4A846B-229A-4EF0-89BC-36A4D45B436D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

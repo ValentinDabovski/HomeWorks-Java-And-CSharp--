@@ -1,0 +1,12 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\0.9. Sum of nNumbers\bin\Debug\_0._9.Sum_of_nNumbers.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\0.9. Sum of nNumbers\bin\Debug\_0._9.Sum_of_nNumbers.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\0.9. Sum of nNumbers\bin\Debug\_0._9.Sum_of_nNumbers.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\0.9. Sum of nNumbers\obj\Debug\_0._9.Sum_of_nNumbers.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\0.9. Sum of nNumbers\obj\Debug\_0._9.Sum_of_nNumbers.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\0.9. Sum of nNumbers\obj\Debug\0.9. Sum of nNumbers.csprojResolveAssemblyReference.cache
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\0.9. Sum of nNumbers\bin\Debug\_0._9.Sum_of_nNumbers.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\0.9. Sum of nNumbers\obj\Debug\_0._9.Sum_of_nNumbers.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\0.9. Sum of nNumbers\obj\Debug\_0._9.Sum_of_nNumbers.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\0.9. Sum of nNumbers\bin\Debug\_0._9.Sum_of_nNumbers.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\0.9. Sum of nNumbers\bin\Debug\_0._9.Sum_of_nNumbers.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\0.9. Sum of nNumbers\obj\Debug\0.9. Sum of nNumbers.csprojResolveAssemblyReference.cache

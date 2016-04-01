@@ -1,0 +1,12 @@
+c:\users\val\documents\visual studio 2015\Projects\02.Dream Item\03.Magic Wand\bin\Debug\03.Magic Wand.exe.config
+c:\users\val\documents\visual studio 2015\Projects\02.Dream Item\03.Magic Wand\bin\Debug\03.Magic Wand.exe
+c:\users\val\documents\visual studio 2015\Projects\02.Dream Item\03.Magic Wand\bin\Debug\03.Magic Wand.pdb
+c:\users\val\documents\visual studio 2015\Projects\02.Dream Item\03.Magic Wand\obj\Debug\03.Magic Wand.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\02.Dream Item\03.Magic Wand\obj\Debug\03.Magic Wand.exe
+c:\users\val\documents\visual studio 2015\Projects\02.Dream Item\03.Magic Wand\obj\Debug\03.Magic Wand.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\02.Dream Item\03.Magic Wand\bin\Debug\03.Magic Wand.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\02.Dream Item\03.Magic Wand\obj\Debug\03.Magic Wand.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\02.Dream Item\03.Magic Wand\obj\Debug\03.Magic Wand.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\02.Dream Item\03.Magic Wand\bin\Debug\03.Magic Wand.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\02.Dream Item\03.Magic Wand\bin\Debug\03.Magic Wand.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\C# Basics\02.Dream Item\03.Magic Wand\obj\Debug\03.Magic Wand.csprojResolveAssemblyReference.cache

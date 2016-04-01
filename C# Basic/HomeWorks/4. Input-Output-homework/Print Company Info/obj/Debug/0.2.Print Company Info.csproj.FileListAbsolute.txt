@@ -1,0 +1,6 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Print Company Info\bin\Debug\Print Company Info.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Print Company Info\obj\Debug\Print Company Info.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Print Company Info\obj\Debug\Print Company Info.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Print Company Info\bin\Debug\Print Company Info.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Print Company Info\obj\Debug\Print Company Info.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Print Company Info\obj\Debug\Print Company Info.pdb

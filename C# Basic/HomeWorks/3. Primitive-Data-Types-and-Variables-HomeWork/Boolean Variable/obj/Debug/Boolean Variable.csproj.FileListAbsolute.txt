@@ -1,0 +1,6 @@
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\Boolean Variable\bin\Debug\Boolean Variable.exe.config
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\Boolean Variable\bin\Debug\Boolean Variable.exe
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\Boolean Variable\bin\Debug\Boolean Variable.pdb
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\Boolean Variable\obj\Debug\Boolean Variable.exe
+c:\users\123\documents\visual studio 2013\Projects\HomeWork\Boolean Variable\obj\Debug\Boolean Variable.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Boolean Variable\obj\Debug\Boolean Variable.csprojResolveAssemblyReference.cache

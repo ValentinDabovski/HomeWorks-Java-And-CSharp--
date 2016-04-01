@@ -1,0 +1,11 @@
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\CheckBit\bin\Debug\CheckBit.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\CheckBit\bin\Debug\CheckBit.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\CheckBit\bin\Debug\CheckBit.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\CheckBit\obj\Debug\CheckBit.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\CheckBit\obj\Debug\CheckBit.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators-homework\CheckBit\bin\Debug\CheckBit.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators-homework\CheckBit\obj\Debug\CheckBit.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators-homework\CheckBit\obj\Debug\CheckBit.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\CheckBit\bin\Debug\CheckBit.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\CheckBit\obj\Debug\CheckBit.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\CheckBit\obj\Debug\CheckBit.pdb

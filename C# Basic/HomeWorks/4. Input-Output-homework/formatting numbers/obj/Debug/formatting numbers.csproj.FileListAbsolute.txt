@@ -1,0 +1,6 @@
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\formatting numbers\bin\Debug\formatting numbers.exe.config
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\formatting numbers\bin\Debug\formatting numbers.exe
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\formatting numbers\bin\Debug\formatting numbers.pdb
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\formatting numbers\obj\Debug\formatting numbers.csprojResolveAssemblyReference.cache
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\formatting numbers\obj\Debug\formatting numbers.exe
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\formatting numbers\obj\Debug\formatting numbers.pdb

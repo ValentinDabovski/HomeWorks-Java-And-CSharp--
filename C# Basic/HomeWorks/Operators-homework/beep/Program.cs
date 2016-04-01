@@ -1,0 +1,123 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class SuperMario
+    {
+        static void Main(string[] args)
+        {
+            //THe Super Mario theme song in c#!                 
+            Console.Beep(659, 300);
+            Console.Beep(659, 300);
+            Console.Beep(659, 300);
+            Console.Beep(523, 300);
+            Console.Beep(659, 300);
+            Console.Beep(784, 300);
+            Console.Beep(392, 300);
+            Console.Beep(392, 300);
+            Console.Beep(330, 300);
+            Console.Beep(440, 300);
+            Console.Beep(494, 300);
+            Console.Beep(466, 300);
+            Console.Beep(440, 300);
+            Console.Beep(392, 300);
+            Console.Beep(659, 300);
+            Console.Beep(784, 300);
+            Console.Beep(880, 300);
+            Console.Beep(698, 300);
+            Console.Beep(784, 300);
+            Console.Beep(659, 300);
+            Console.Beep(523, 300);
+            Console.Beep(587, 300);
+            Console.Beep(494, 300);
+            Console.Beep(523, 300);
+            Console.Beep(392, 300);
+            Console.Beep(330, 300);
+            Console.Beep(440, 300);
+            Console.Beep(494, 300);
+            Console.Beep(466, 300);
+            Console.Beep(440, 300);
+            Console.Beep(392, 300);
+            Console.Beep(659, 300);
+            Console.Beep(784, 300);
+            Console.Beep(880, 300);
+            Console.Beep(698, 300);
+            Console.Beep(784, 300);
+            Console.Beep(659, 300);
+            Console.Beep(523, 300);
+            Console.Beep(587, 300);
+            Console.Beep(494, 300);
+            Console.Beep(784, 300);
+            Console.Beep(740, 300);
+            Console.Beep(698, 300);
+            Console.Beep(622, 300);
+            Console.Beep(659, 300);
+            Console.Beep(415, 300);
+            Console.Beep(440, 300);
+            Console.Beep(523, 300);
+            Console.Beep(440, 300);
+            Console.Beep(523, 300);
+            Console.Beep(587, 300);
+            Console.Beep(784, 300);
+            Console.Beep(740, 300);
+            Console.Beep(698, 300);
+            Console.Beep(622, 300);
+            Console.Beep(659, 300);
+            Console.Beep(698, 300);
+            Console.Beep(698, 300);
+            Console.Beep(698, 300);
+            Console.Beep(784, 300);
+            Console.Beep(740, 300);
+            Console.Beep(698, 300);
+            Console.Beep(622, 300);
+            Console.Beep(659, 300);
+            Console.Beep(415, 300);
+            Console.Beep(440, 300);
+            Console.Beep(523, 300);
+            Console.Beep(440, 300);
+            Console.Beep(523, 300);
+            Console.Beep(587, 300);
+            Console.Beep(622, 300);
+            Console.Beep(587, 300);
+            Console.Beep(523, 300);
+            Console.Beep(784, 300);
+            Console.Beep(740, 300);
+            Console.Beep(698, 300);
+            Console.Beep(622, 300);
+            Console.Beep(659, 300);
+            Console.Beep(415, 300);
+            Console.Beep(440, 300);
+            Console.Beep(523, 300);
+            Console.Beep(440, 300);
+            Console.Beep(523, 300);
+            Console.Beep(587, 300);
+            Console.Beep(784, 300);
+            Console.Beep(740, 300);
+            Console.Beep(698, 300);
+            Console.Beep(622, 300);
+            Console.Beep(659, 300);
+            Console.Beep(698, 300);
+            Console.Beep(698, 300);
+            Console.Beep(698, 300);
+            Console.Beep(784, 300);
+            Console.Beep(740, 300);
+            Console.Beep(698, 300);
+            Console.Beep(622, 300);
+            Console.Beep(659, 300);
+            Console.Beep(415, 300);
+            Console.Beep(440, 300);
+            Console.Beep(523, 300);
+            Console.Beep(440, 300);
+            Console.Beep(523, 300);
+            Console.Beep(587, 300);
+            Console.Beep(622, 300);
+            Console.Beep(587, 300);
+            Console.Beep(523, 300);
+        }
+    }
+}
+

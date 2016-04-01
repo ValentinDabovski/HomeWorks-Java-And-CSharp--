@@ -1,0 +1,6 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\01.Number from One to N\bin\Debug\01.Number from One to N.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\01.Number from One to N\bin\Debug\01.Number from One to N.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\01.Number from One to N\bin\Debug\01.Number from One to N.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\01.Number from One to N\obj\Debug\01.Number from One to N.csprojResolveAssemblyReference.cache
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\01.Number from One to N\obj\Debug\01.Number from One to N.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Loops\01.Number from One to N\obj\Debug\01.Number from One to N.pdb

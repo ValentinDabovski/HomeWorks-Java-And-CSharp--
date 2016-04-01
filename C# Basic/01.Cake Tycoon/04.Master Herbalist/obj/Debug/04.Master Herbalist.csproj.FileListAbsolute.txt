@@ -1,0 +1,6 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\04.Master Herbalist\bin\Debug\04.Master Herbalist.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\04.Master Herbalist\bin\Debug\04.Master Herbalist.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\04.Master Herbalist\bin\Debug\04.Master Herbalist.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\04.Master Herbalist\obj\Debug\04.Master Herbalist.csprojResolveAssemblyReference.cache
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\04.Master Herbalist\obj\Debug\04.Master Herbalist.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\01.Cake Tycoon\04.Master Herbalist\obj\Debug\04.Master Herbalist.pdb

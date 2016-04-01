@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics Exam - 18 October 2015\02. Grand Theft Examo\bin\Debug\_02.Grand_Theft_Examo.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics Exam - 18 October 2015\02. Grand Theft Examo\bin\Debug\_02.Grand_Theft_Examo.exe
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics Exam - 18 October 2015\02. Grand Theft Examo\bin\Debug\_02.Grand_Theft_Examo.pdb
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics Exam - 18 October 2015\02. Grand Theft Examo\obj\Debug\02. Grand Theft Examo.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics Exam - 18 October 2015\02. Grand Theft Examo\obj\Debug\_02.Grand_Theft_Examo.exe
+c:\users\val\documents\visual studio 2015\Projects\Programming Basics Exam - 18 October 2015\02. Grand Theft Examo\obj\Debug\_02.Grand_Theft_Examo.pdb

@@ -1,0 +1,1 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\Loops\2.Numbers Not Divisible by 3 and 7\bin\Debug\2.Numbers Not Divisible by 3 and 7.exe.config

@@ -1,0 +1,5 @@
+c:\users\123\documents\visual studio 2013\Projects\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+c:\users\123\documents\visual studio 2013\Projects\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\123\documents\visual studio 2013\Projects\PrintNumbers\bin\Debug\PrintNumbers.pdb
+c:\users\123\documents\visual studio 2013\Projects\PrintNumbers\obj\Debug\PrintNumbers.exe
+c:\users\123\documents\visual studio 2013\Projects\PrintNumbers\obj\Debug\PrintNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\Problem 4 – Nine-Digit Magic Numbers\bin\Debug\Problem 4 – Nine-Digit Magic Numbers.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\Problem 4 – Nine-Digit Magic Numbers\bin\Debug\Problem 4 – Nine-Digit Magic Numbers.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\Problem 4 – Nine-Digit Magic Numbers\bin\Debug\Problem 4 – Nine-Digit Magic Numbers.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\Problem 4 – Nine-Digit Magic Numbers\obj\Debug\Problem 4 – Nine-Digit Magic Numbers.csprojResolveAssemblyReference.cache
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\Problem 4 – Nine-Digit Magic Numbers\obj\Debug\Problem 4 – Nine-Digit Magic Numbers.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\ProgBasics Exam 10 April 2014 Morning\Problem 4 – Nine-Digit Magic Numbers\obj\Debug\Problem 4 – Nine-Digit Magic Numbers.pdb

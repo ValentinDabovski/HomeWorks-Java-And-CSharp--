@@ -1,0 +1,5 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\beep\bin\Debug\beep.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\beep\bin\Debug\beep.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\beep\bin\Debug\beep.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\beep\obj\Debug\beep.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\beep\obj\Debug\beep.pdb

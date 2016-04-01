@@ -1,0 +1,3 @@
+C:\Users\123\documents\visual studio 2015\Projects\Loops\Problem 3. Min, Max, Sum and Average of N Numbers\bin\Debug\Problem_3.Min__Max__Sum_and_Average_of_N_Numbers.exe.config
+C:\Users\123\documents\visual studio 2015\Projects\Loops\Problem 3. Min, Max, Sum and Average of N Numbers\obj\Debug\Problem_3.Min__Max__Sum_and_Average_of_N_Numbers.exe
+C:\Users\123\documents\visual studio 2015\Projects\Loops\Problem 3. Min, Max, Sum and Average of N Numbers\obj\Debug\Problem_3.Min__Max__Sum_and_Average_of_N_Numbers.pdb

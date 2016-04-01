@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Cinema", "01.Cinema\01.Cinema.csproj", "{733F2669-298B-446B-808C-1B13F121D296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Illuminati", "02.Illuminati\02.Illuminati.csproj", "{0C808932-DFB9-4F9F-9EFA-EAB0FE223742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.New House", "03.New House\03.New House.csproj", "{21123F38-6C39-4B56-BB2C-1EB034D509E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{733F2669-298B-446B-808C-1B13F121D296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733F2669-298B-446B-808C-1B13F121D296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733F2669-298B-446B-808C-1B13F121D296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733F2669-298B-446B-808C-1B13F121D296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C808932-DFB9-4F9F-9EFA-EAB0FE223742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C808932-DFB9-4F9F-9EFA-EAB0FE223742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C808932-DFB9-4F9F-9EFA-EAB0FE223742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C808932-DFB9-4F9F-9EFA-EAB0FE223742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21123F38-6C39-4B56-BB2C-1EB034D509E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21123F38-6C39-4B56-BB2C-1EB034D509E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21123F38-6C39-4B56-BB2C-1EB034D509E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21123F38-6C39-4B56-BB2C-1EB034D509E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

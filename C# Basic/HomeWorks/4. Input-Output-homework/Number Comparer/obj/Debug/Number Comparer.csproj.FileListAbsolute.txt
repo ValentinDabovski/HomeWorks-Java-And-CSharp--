@@ -1,0 +1,5 @@
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Number Comparer\bin\Debug\Number Comparer.exe.config
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Number Comparer\bin\Debug\Number Comparer.exe
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Number Comparer\bin\Debug\Number Comparer.pdb
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Number Comparer\obj\Debug\Number Comparer.exe
+c:\users\123\documents\visual studio 2013\Projects\Input-Output\Number Comparer\obj\Debug\Number Comparer.pdb

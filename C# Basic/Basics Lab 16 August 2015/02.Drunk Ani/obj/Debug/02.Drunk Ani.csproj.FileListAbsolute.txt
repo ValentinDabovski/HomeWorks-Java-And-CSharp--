@@ -1,0 +1,5 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics Lab 16 August 2015\02.Drunk Ani\bin\Debug\02.Drunk Ani.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics Lab 16 August 2015\02.Drunk Ani\bin\Debug\02.Drunk Ani.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Lab 16 August 2015\02.Drunk Ani\bin\Debug\02.Drunk Ani.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Lab 16 August 2015\02.Drunk Ani\obj\Debug\02.Drunk Ani.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Lab 16 August 2015\02.Drunk Ani\obj\Debug\02.Drunk Ani.pdb

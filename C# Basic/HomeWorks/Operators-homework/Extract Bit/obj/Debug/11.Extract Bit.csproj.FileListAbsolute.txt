@@ -1,0 +1,3 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Extract Bit\bin\Debug\Extract Bit.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Extract Bit\obj\Debug\Extract Bit.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Extract Bit\obj\Debug\Extract Bit.pdb

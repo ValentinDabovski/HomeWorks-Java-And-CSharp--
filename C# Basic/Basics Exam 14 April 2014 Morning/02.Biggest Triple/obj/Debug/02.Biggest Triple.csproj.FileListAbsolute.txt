@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Morning\02.Biggest Triple\bin\Debug\02.Biggest Triple.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Morning\02.Biggest Triple\bin\Debug\02.Biggest Triple.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Morning\02.Biggest Triple\bin\Debug\02.Biggest Triple.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Morning\02.Biggest Triple\obj\Debug\02.Biggest Triple.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Morning\02.Biggest Triple\obj\Debug\02.Biggest Triple.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Morning\02.Biggest Triple\obj\Debug\02.Biggest Triple.pdb

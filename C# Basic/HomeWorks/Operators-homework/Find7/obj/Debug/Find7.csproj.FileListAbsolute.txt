@@ -1,0 +1,12 @@
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\Find7\bin\Debug\Find7.exe.config
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\Find7\bin\Debug\Find7.exe
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\Find7\bin\Debug\Find7.pdb
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\Find7\obj\Debug\Find7.csprojResolveAssemblyReference.cache
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\Find7\obj\Debug\Find7.exe
+c:\users\123\documents\visual studio 2013\Projects\ConsoleApplication1\Find7\obj\Debug\Find7.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Find7\bin\Debug\Find7.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Find7\obj\Debug\Find7.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\Operators\Find7\obj\Debug\Find7.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Find7\bin\Debug\Find7.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Find7\obj\Debug\Find7.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Operators-homework\Find7\obj\Debug\Find7.pdb

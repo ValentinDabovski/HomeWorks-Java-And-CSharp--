@@ -1,0 +1,6 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\BasicsExam29March2015 Evening\04 ArrayMatcher\bin\Debug\04 ArrayMatcher.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\BasicsExam29March2015 Evening\04 ArrayMatcher\bin\Debug\04 ArrayMatcher.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\BasicsExam29March2015 Evening\04 ArrayMatcher\bin\Debug\04 ArrayMatcher.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\BasicsExam29March2015 Evening\04 ArrayMatcher\obj\Debug\04 ArrayMatcher.csprojResolveAssemblyReference.cache
+C:\Users\val\Documents\Visual Studio 2015\Projects\BasicsExam29March2015 Evening\04 ArrayMatcher\obj\Debug\04 ArrayMatcher.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\BasicsExam29March2015 Evening\04 ArrayMatcher\obj\Debug\04 ArrayMatcher.pdb

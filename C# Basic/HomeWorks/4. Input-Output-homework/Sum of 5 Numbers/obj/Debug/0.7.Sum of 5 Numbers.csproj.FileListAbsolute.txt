@@ -1,0 +1,9 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 5 Numbers\bin\Debug\Sum of 5 Numbers.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 5 Numbers\bin\Debug\Sum of 5 Numbers.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 5 Numbers\bin\Debug\Sum of 5 Numbers.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 5 Numbers\obj\Debug\0.7.Sum of 5 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 5 Numbers\obj\Debug\Sum of 5 Numbers.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 5 Numbers\obj\Debug\Sum of 5 Numbers.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 5 Numbers\bin\Debug\Sum of 5 Numbers.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 5 Numbers\obj\Debug\Sum of 5 Numbers.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\4. Input-Output-homework\Sum of 5 Numbers\obj\Debug\Sum of 5 Numbers.pdb

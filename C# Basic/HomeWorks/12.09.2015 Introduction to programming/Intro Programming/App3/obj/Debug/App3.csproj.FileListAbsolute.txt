@@ -1,0 +1,13 @@
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\bin\Debug\App3.dll
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\bin\Debug\App3.pdb
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\bin\Debug\App3.App3.apk
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\bin\Debug\App3.App3-Signed.apk
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\App3.dll
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\App3.pdb
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\android\bin\App3.App3.apk
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\res\layout\main.xml
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\res\values\strings.xml
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\res\drawable\icon.png
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\R.cs.flag
+C:\Users\123\documents\visual studio 2015\Projects\12.09.2015 Introduction to programming\Intro Programming\App3\obj\Debug\uploadflags.txt

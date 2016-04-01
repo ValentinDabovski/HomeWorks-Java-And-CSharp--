@@ -1,0 +1,9 @@
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Employee Data\bin\Debug\Employee Data.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Employee Data\bin\Debug\Employee Data.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Employee Data\bin\Debug\Employee Data.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Employee Data\obj\Debug\Employee Data.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Employee Data\obj\Debug\Employee Data.pdb
+C:\Users\123\Documents\Visual Studio 2013\Projects\HomeWork\Employee Data\obj\Debug\Employee Data.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2013\Projects\3. Primitive-Data-Types-and-Variables-HomeWork\Employee Data\bin\Debug\Employee Data.exe.config
+C:\Users\123\Documents\Visual Studio 2013\Projects\3. Primitive-Data-Types-and-Variables-HomeWork\Employee Data\obj\Debug\Employee Data.exe
+C:\Users\123\Documents\Visual Studio 2013\Projects\3. Primitive-Data-Types-and-Variables-HomeWork\Employee Data\obj\Debug\Employee Data.pdb

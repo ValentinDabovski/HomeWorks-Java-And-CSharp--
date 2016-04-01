@@ -1,0 +1,5 @@
+C:\Users\val\Documents\Visual Studio 2015\Projects\Arrays\02.SortingNumbers\bin\Debug\02.SortingNumbers.exe.config
+C:\Users\val\Documents\Visual Studio 2015\Projects\Arrays\02.SortingNumbers\bin\Debug\02.SortingNumbers.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Arrays\02.SortingNumbers\bin\Debug\02.SortingNumbers.pdb
+C:\Users\val\Documents\Visual Studio 2015\Projects\Arrays\02.SortingNumbers\obj\Debug\02.SortingNumbers.exe
+C:\Users\val\Documents\Visual Studio 2015\Projects\Arrays\02.SortingNumbers\obj\Debug\02.SortingNumbers.pdb

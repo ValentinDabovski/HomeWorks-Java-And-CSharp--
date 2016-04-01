@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Evening\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe.config
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Evening\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Evening\InsideTheBuilding\bin\Debug\InsideTheBuilding.pdb
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Evening\InsideTheBuilding\obj\Debug\InsideTheBuilding.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Evening\InsideTheBuilding\obj\Debug\InsideTheBuilding.exe
+c:\users\val\documents\visual studio 2015\Projects\Basics Exam 14 April 2014 Evening\InsideTheBuilding\obj\Debug\InsideTheBuilding.pdb
