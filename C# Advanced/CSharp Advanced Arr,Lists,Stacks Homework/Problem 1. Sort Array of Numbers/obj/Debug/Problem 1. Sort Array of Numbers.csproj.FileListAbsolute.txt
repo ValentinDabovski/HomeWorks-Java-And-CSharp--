@@ -1,0 +1,6 @@
+c:\users\val\documents\visual studio 2015\Projects\CSharp Advanced Arr,Lists,Stacks Homework\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.exe.config
+c:\users\val\documents\visual studio 2015\Projects\CSharp Advanced Arr,Lists,Stacks Homework\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.exe
+c:\users\val\documents\visual studio 2015\Projects\CSharp Advanced Arr,Lists,Stacks Homework\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.pdb
+c:\users\val\documents\visual studio 2015\Projects\CSharp Advanced Arr,Lists,Stacks Homework\Problem 1. Sort Array of Numbers\obj\Debug\Problem 1. Sort Array of Numbers.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2015\Projects\CSharp Advanced Arr,Lists,Stacks Homework\Problem 1. Sort Array of Numbers\obj\Debug\Problem_1.Sort_Array_of_Numbers.exe
+c:\users\val\documents\visual studio 2015\Projects\CSharp Advanced Arr,Lists,Stacks Homework\Problem 1. Sort Array of Numbers\obj\Debug\Problem_1.Sort_Array_of_Numbers.pdb

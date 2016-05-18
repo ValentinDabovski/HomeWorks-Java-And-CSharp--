@@ -1,0 +1,6 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\BasicStackOperations\BasicStackOperations\bin\Debug\BasicStackOperations.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\BasicStackOperations\BasicStackOperations\bin\Debug\BasicStackOperations.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\BasicStackOperations\BasicStackOperations\bin\Debug\BasicStackOperations.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\BasicStackOperations\BasicStackOperations\obj\Debug\BasicStackOperations.csprojResolveAssemblyReference.cache
+c:\users\valcoder\documents\visual studio 2015\Projects\BasicStackOperations\BasicStackOperations\obj\Debug\BasicStackOperations.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\BasicStackOperations\BasicStackOperations\obj\Debug\BasicStackOperations.pdb

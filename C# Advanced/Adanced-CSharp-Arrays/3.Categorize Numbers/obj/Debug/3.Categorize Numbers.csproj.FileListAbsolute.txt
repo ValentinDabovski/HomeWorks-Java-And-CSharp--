@@ -1,0 +1,6 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\3.Categorize Numbers\bin\Debug\3.Categorize Numbers.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\3.Categorize Numbers\bin\Debug\3.Categorize Numbers.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\3.Categorize Numbers\bin\Debug\3.Categorize Numbers.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\3.Categorize Numbers\obj\Debug\3.Categorize Numbers.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\3.Categorize Numbers\obj\Debug\3.Categorize Numbers.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\3.Categorize Numbers\obj\Debug\3.Categorize Numbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\4.SequencesOfEqual Strings\bin\Debug\4.SequencesOfEqual Strings.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\4.SequencesOfEqual Strings\bin\Debug\4.SequencesOfEqual Strings.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\4.SequencesOfEqual Strings\bin\Debug\4.SequencesOfEqual Strings.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\4.SequencesOfEqual Strings\obj\Debug\4.SequencesOfEqual Strings.csprojResolveAssemblyReference.cache
+c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\4.SequencesOfEqual Strings\obj\Debug\4.SequencesOfEqual Strings.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\4.SequencesOfEqual Strings\obj\Debug\4.SequencesOfEqual Strings.pdb
