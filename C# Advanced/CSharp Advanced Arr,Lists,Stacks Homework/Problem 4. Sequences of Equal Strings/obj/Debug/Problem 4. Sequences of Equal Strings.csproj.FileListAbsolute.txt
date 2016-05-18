@@ -1,6 +1,0 @@
-c:\users\val\documents\visual studio 2015\Projects\CSharp Advanced Arr,Lists,Stacks Homework\Problem 4. Sequences of Equal Strings\bin\Debug\Problem_4.Sequences_of_Equal_Strings.exe.config
-c:\users\val\documents\visual studio 2015\Projects\CSharp Advanced Arr,Lists,Stacks Homework\Problem 4. Sequences of Equal Strings\bin\Debug\Problem_4.Sequences_of_Equal_Strings.exe
-c:\users\val\documents\visual studio 2015\Projects\CSharp Advanced Arr,Lists,Stacks Homework\Problem 4. Sequences of Equal Strings\bin\Debug\Problem_4.Sequences_of_Equal_Strings.pdb
-c:\users\val\documents\visual studio 2015\Projects\CSharp Advanced Arr,Lists,Stacks Homework\Problem 4. Sequences of Equal Strings\obj\Debug\Problem_4.Sequences_of_Equal_Strings.exe
-c:\users\val\documents\visual studio 2015\Projects\CSharp Advanced Arr,Lists,Stacks Homework\Problem 4. Sequences of Equal Strings\obj\Debug\Problem_4.Sequences_of_Equal_Strings.pdb
-C:\Users\val\Documents\Visual Studio 2015\Projects\CSharp Advanced Arr,Lists,Stacks Homework\Problem 4. Sequences of Equal Strings\obj\Debug\Problem 4. Sequences of Equal Strings.csprojResolveAssemblyReference.cache

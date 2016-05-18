@@ -1,3 +1,0 @@
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\BasicStackOperations\bin\Debug\BasicStackOperations.exe.config
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\BasicStackOperations\obj\Debug\BasicStackOperations.exe
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\BasicStackOperations\obj\Debug\BasicStackOperations.pdb

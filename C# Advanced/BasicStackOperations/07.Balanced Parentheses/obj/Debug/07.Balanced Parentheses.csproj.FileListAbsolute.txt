@@ -1,6 +1,0 @@
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\07.Balanced Parentheses\bin\Debug\07.Balanced Parentheses.exe.config
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\07.Balanced Parentheses\bin\Debug\07.Balanced Parentheses.exe
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\07.Balanced Parentheses\bin\Debug\07.Balanced Parentheses.pdb
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\07.Balanced Parentheses\obj\Debug\07.Balanced Parentheses.csprojResolveAssemblyReference.cache
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\07.Balanced Parentheses\obj\Debug\07.Balanced Parentheses.exe
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\07.Balanced Parentheses\obj\Debug\07.Balanced Parentheses.pdb

@@ -1,1 +1,0 @@
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\06.Truck Tour\bin\Debug\06.Truck Tour.exe.config

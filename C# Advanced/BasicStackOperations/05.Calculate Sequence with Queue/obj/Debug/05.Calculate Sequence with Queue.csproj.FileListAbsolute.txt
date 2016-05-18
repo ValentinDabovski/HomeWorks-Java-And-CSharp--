@@ -1,6 +1,0 @@
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\05.Calculate Sequence with Queue\bin\Debug\05.Calculate Sequence with Queue.exe.config
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\05.Calculate Sequence with Queue\bin\Debug\05.Calculate Sequence with Queue.exe
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\05.Calculate Sequence with Queue\bin\Debug\05.Calculate Sequence with Queue.pdb
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\05.Calculate Sequence with Queue\obj\Debug\05.Calculate Sequence with Queue.csprojResolveAssemblyReference.cache
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\05.Calculate Sequence with Queue\obj\Debug\05.Calculate Sequence with Queue.exe
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\05.Calculate Sequence with Queue\obj\Debug\05.Calculate Sequence with Queue.pdb

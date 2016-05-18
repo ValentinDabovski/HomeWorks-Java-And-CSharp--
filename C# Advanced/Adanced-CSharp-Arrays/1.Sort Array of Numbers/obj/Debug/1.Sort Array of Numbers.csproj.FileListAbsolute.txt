@@ -1,6 +1,0 @@
-c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\1.Sort Array of Numbers\bin\Debug\1.Sort Array of Numbers.exe.config
-c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\1.Sort Array of Numbers\bin\Debug\1.Sort Array of Numbers.exe
-c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\1.Sort Array of Numbers\bin\Debug\1.Sort Array of Numbers.pdb
-c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\1.Sort Array of Numbers\obj\Debug\1.Sort Array of Numbers.csprojResolveAssemblyReference.cache
-c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\1.Sort Array of Numbers\obj\Debug\1.Sort Array of Numbers.exe
-c:\users\valcoder\documents\visual studio 2015\Projects\Adanced-CSharp-Arrays\1.Sort Array of Numbers\obj\Debug\1.Sort Array of Numbers.pdb
