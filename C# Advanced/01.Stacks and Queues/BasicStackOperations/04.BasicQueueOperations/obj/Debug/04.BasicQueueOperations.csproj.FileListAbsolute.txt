@@ -1,0 +1,5 @@
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe.config
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.pdb
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\BasicStackOperations\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.pdb

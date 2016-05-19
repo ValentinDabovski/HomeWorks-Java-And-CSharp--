@@ -1,0 +1,6 @@
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# Advanced\02.SetsDictonaries\07.FixEmails\bin\Debug\07.FixEmails.exe.config
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# Advanced\02.SetsDictonaries\07.FixEmails\bin\Debug\07.FixEmails.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# Advanced\02.SetsDictonaries\07.FixEmails\bin\Debug\07.FixEmails.pdb
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# Advanced\02.SetsDictonaries\07.FixEmails\obj\Debug\07.FixEmails.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# Advanced\02.SetsDictonaries\07.FixEmails\obj\Debug\07.FixEmails.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# Advanced\02.SetsDictonaries\07.FixEmails\obj\Debug\07.FixEmails.pdb

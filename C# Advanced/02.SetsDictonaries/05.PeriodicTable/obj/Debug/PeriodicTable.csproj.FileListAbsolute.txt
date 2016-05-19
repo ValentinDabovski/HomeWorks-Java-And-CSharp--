@@ -1,0 +1,5 @@
+C:\Users\ValCoder\Desktop\BashSoft\SetsDictonaries\PeriodicTable\bin\Debug\PeriodicTable.exe.config
+C:\Users\ValCoder\Desktop\BashSoft\SetsDictonaries\PeriodicTable\bin\Debug\PeriodicTable.exe
+C:\Users\ValCoder\Desktop\BashSoft\SetsDictonaries\PeriodicTable\bin\Debug\PeriodicTable.pdb
+C:\Users\ValCoder\Desktop\BashSoft\SetsDictonaries\PeriodicTable\obj\Debug\PeriodicTable.exe
+C:\Users\ValCoder\Desktop\BashSoft\SetsDictonaries\PeriodicTable\obj\Debug\PeriodicTable.pdb

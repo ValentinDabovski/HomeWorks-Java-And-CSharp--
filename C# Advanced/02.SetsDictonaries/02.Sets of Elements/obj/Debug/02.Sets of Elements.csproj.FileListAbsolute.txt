@@ -1,0 +1,8 @@
+C:\Users\ValCoder\Desktop\BashSoft\SetsDictonaries\02.Sets of Elements\bin\Debug\02.Sets of Elements.exe.config
+C:\Users\ValCoder\Desktop\BashSoft\SetsDictonaries\02.Sets of Elements\bin\Debug\02.Sets of Elements.exe
+C:\Users\ValCoder\Desktop\BashSoft\SetsDictonaries\02.Sets of Elements\bin\Debug\02.Sets of Elements.pdb
+C:\Users\ValCoder\Desktop\BashSoft\SetsDictonaries\02.Sets of Elements\obj\Debug\02.Sets of Elements.exe
+C:\Users\ValCoder\Desktop\BashSoft\SetsDictonaries\02.Sets of Elements\obj\Debug\02.Sets of Elements.pdb
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# Advanced\02.SetsDictonaries\02.Sets of Elements\bin\Debug\02.Sets of Elements.exe.config
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# Advanced\02.SetsDictonaries\02.Sets of Elements\obj\Debug\02.Sets of Elements.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# Advanced\02.SetsDictonaries\02.Sets of Elements\obj\Debug\02.Sets of Elements.pdb
