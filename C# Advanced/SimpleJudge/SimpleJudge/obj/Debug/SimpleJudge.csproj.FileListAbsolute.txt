@@ -1,0 +1,6 @@
+C:\Users\ValCoder\Desktop\SimpleJudge\SimpleJudge\SimpleJudge\bin\Debug\SimpleJudge.exe.config
+C:\Users\ValCoder\Desktop\SimpleJudge\SimpleJudge\SimpleJudge\bin\Debug\SimpleJudge.exe
+C:\Users\ValCoder\Desktop\SimpleJudge\SimpleJudge\SimpleJudge\bin\Debug\SimpleJudge.pdb
+C:\Users\ValCoder\Desktop\SimpleJudge\SimpleJudge\SimpleJudge\obj\Debug\SimpleJudge.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\Desktop\SimpleJudge\SimpleJudge\SimpleJudge\obj\Debug\SimpleJudge.exe
+C:\Users\ValCoder\Desktop\SimpleJudge\SimpleJudge\SimpleJudge\obj\Debug\SimpleJudge.pdb
