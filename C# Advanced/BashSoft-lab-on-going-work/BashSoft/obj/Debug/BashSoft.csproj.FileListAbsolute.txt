@@ -4,3 +4,6 @@ C:\Users\ValCoder\Desktop\BashSoft\BashSoft\BashSoft\bin\Debug\BashSoft.pdb
 C:\Users\ValCoder\Desktop\BashSoft\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
 C:\Users\ValCoder\Desktop\BashSoft\BashSoft\BashSoft\obj\Debug\BashSoft.exe
 C:\Users\ValCoder\Desktop\BashSoft\BashSoft\BashSoft\obj\Debug\BashSoft.pdb
+C:\Users\ValCoder\Documents\Github-Repository\C# Advanced\BashSoft-lab-on-going-work\BashSoft\bin\Debug\BashSoft.exe.config
+C:\Users\ValCoder\Documents\Github-Repository\C# Advanced\BashSoft-lab-on-going-work\BashSoft\obj\Debug\BashSoft.exe
+C:\Users\ValCoder\Documents\Github-Repository\C# Advanced\BashSoft-lab-on-going-work\BashSoft\obj\Debug\BashSoft.pdb
