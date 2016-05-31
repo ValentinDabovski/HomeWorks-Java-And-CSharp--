@@ -22,21 +22,30 @@ namespace BashSoft
                 string currentPath = subFolders.Dequeue();
                 int identation = currentPath.Split('\\').Length - initialIdentation;
 
-                foreach (string directoryPath in Directory.GetDirectories(currentPath))
+                try
                 {
-                    subFolders.Enqueue(directoryPath);
+                    foreach (var file in Directory.GetFiles(currentPath))
+                    {
+                        int indexOfLastSlash = file.LastIndexOf("\\");
+                        string fileName = file.Substring(indexOfLastSlash);
+                        OutputWriter.WriteMessageOnNewLine(new string('-', indexOfLastSlash) + fileName);
+                    }
+
+                    foreach (string directoryPath in Directory.GetDirectories(currentPath))
+                    {
+                        subFolders.Enqueue(directoryPath);
+                    }
+
+                    OutputWriter.WriteMessageOnNewLine(string.Format("{0}{1}", new string('-', identation), currentPath));
 
                 }
 
-                OutputWriter.WriteMessageOnNewLine(string.Format("{0}{1}", new string('-', identation), currentPath));
-
-                foreach (var file in Directory.GetFiles(currentPath))
+                catch (UnauthorizedAccessException)
                 {
-                    int indexOfLastSlash = file.LastIndexOf("\\");
-                    string fileName = file.Substring(indexOfLastSlash);
-                    OutputWriter.WriteMessageOnNewLine(new string('-', indexOfLastSlash) + fileName);
-                }
 
+                    OutputWriter.DisplayException(ExceptionMessages.UnauthorizedAccessExceptionMessage);
+                }
+                
                 if (depth - identation < 0)
                 {
                     break;
@@ -46,8 +55,18 @@ namespace BashSoft
 
         public static void CreateDirectoryInCurrentFolder(string name)
         {
-            string path = Directory.GetCurrentDirectory() + "\\" + name;
-            Directory.CreateDirectory(path);
+            string path = SessionData.currentPath + "\\" + name;
+            try
+            {
+                Directory.CreateDirectory(path);
+            }
+            catch (ArgumentException)
+            {
+                OutputWriter.DisplayException(ExceptionMessages.ForbiddenSymbolsContainedInName);
+               
+            }
+
+           
         }
         
 
@@ -55,10 +74,18 @@ namespace BashSoft
         {
             if (relativePath == "..")
             {
-                string currentPath = SessionData.currentPath;
-                int indexOfLastSlash = currentPath.LastIndexOf("\\");
-                string newPath = currentPath.Substring(0, indexOfLastSlash);
-                SessionData.currentPath = newPath;
+                try
+                {
+                    string currentPath = SessionData.currentPath;
+                    int indexOfLastSlash = currentPath.LastIndexOf("\\");
+                    string newPath = currentPath.Substring(0, indexOfLastSlash);
+                    SessionData.currentPath = newPath;
+                }
+                catch (ArgumentOutOfRangeException)
+                {
+                    OutputWriter.DisplayException(ExceptionMessages.UnableToGoHigherInPartitionHierarchy);
+                    
+                }
             }
             else
             {
@@ -71,6 +98,7 @@ namespace BashSoft
 
         public static void ChangeDirectoryAbsolute(string absolutePath)
         {
+            
             if (!Directory.Exists(absolutePath))
             {
                 OutputWriter.DisplayException(ExceptionMessages.InvalidPath);

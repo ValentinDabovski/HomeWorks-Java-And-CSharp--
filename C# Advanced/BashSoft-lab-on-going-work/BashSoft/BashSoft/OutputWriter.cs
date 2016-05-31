@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BashSoft
 {
-   public static  class OutputWriter
+    public static class OutputWriter
     {
         public static void WriteMessage(string message)
         {
@@ -31,8 +31,6 @@ namespace BashSoft
             Console.WriteLine(message);
             Console.ForegroundColor = currentColor;
         }
-           
-        }
-
     }
+}
 

@@ -12,12 +12,14 @@ namespace BashSoft
     {
         static void Main(string[] args)
         {
-            IOManager.TraverseDirectory(1);
 
-
-         //    Tester.CompareContent(@"C:\Users\ValCoder\Documents\test\test2.txt", @"C:\Users\ValCoder\Documents\test\test3.txt");
-
-          //  IOManager.CreateDirectoryInCurrentFolder("");
+            InputReader.StartReadingCommands();
+             // IOManager.ChangeDirectoryAbsolute(@"D:\\");
+          //    IOManager.TraverseDirectory(20);
+            //
+            //  Tester.CompareContent(@"C:\Users\ValCoder\Documents\test\test3.txt", @"C:\Users\ValCoder\Documents\test\test3.txt");
+            //  IOManager.CreateDirectoryInCurrentFolder("*2");
+            
         }
     }
 }
