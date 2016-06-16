@@ -1,0 +1,5 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 6. Filter Students by Phone\bin\Debug\Problem_6.Filter_Students_by_Phone.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 6. Filter Students by Phone\bin\Debug\Problem_6.Filter_Students_by_Phone.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 6. Filter Students by Phone\bin\Debug\Problem_6.Filter_Students_by_Phone.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 6. Filter Students by Phone\obj\Debug\Problem_6.Filter_Students_by_Phone.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 6. Filter Students by Phone\obj\Debug\Problem_6.Filter_Students_by_Phone.pdb

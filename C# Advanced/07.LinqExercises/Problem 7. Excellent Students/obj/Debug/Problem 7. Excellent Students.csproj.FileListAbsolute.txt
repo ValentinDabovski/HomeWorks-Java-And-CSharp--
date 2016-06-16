@@ -1,0 +1,5 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 7. Excellent Students\bin\Debug\Problem_7.Excellent_Students.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 7. Excellent Students\bin\Debug\Problem_7.Excellent_Students.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 7. Excellent Students\bin\Debug\Problem_7.Excellent_Students.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 7. Excellent Students\obj\Debug\Problem_7.Excellent_Students.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 7. Excellent Students\obj\Debug\Problem_7.Excellent_Students.pdb

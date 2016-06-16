@@ -1,0 +1,6 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\01StudentsByGroup\bin\Debug\01StudentsByGroup.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\01StudentsByGroup\bin\Debug\01StudentsByGroup.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\01StudentsByGroup\bin\Debug\01StudentsByGroup.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\01StudentsByGroup\obj\Debug\01StudentsByGroup.csprojResolveAssemblyReference.cache
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\01StudentsByGroup\obj\Debug\01StudentsByGroup.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\01StudentsByGroup\obj\Debug\01StudentsByGroup.pdb

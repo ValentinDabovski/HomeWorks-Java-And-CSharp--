@@ -1,0 +1,6 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\Functional Programming\ActionPrint\bin\Debug\ActionPrint.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\Functional Programming\ActionPrint\bin\Debug\ActionPrint.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\Functional Programming\ActionPrint\bin\Debug\ActionPrint.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\Functional Programming\ActionPrint\obj\Debug\ActionPrint.csprojResolveAssemblyReference.cache
+c:\users\valcoder\documents\visual studio 2015\Projects\Functional Programming\ActionPrint\obj\Debug\ActionPrint.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\Functional Programming\ActionPrint\obj\Debug\ActionPrint.pdb

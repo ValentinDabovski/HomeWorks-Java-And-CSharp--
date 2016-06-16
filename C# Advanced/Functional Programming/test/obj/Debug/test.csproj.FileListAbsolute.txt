@@ -1,0 +1,6 @@
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\test\bin\Debug\test.exe.config
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\test\bin\Debug\test.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\test\bin\Debug\test.pdb
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\test\obj\Debug\test.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\test\obj\Debug\test.pdb

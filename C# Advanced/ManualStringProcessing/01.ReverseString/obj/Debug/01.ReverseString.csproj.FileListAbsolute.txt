@@ -1,0 +1,6 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\ManualStringProcessing\01.ReverseString\bin\Debug\01.ReverseString.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\ManualStringProcessing\01.ReverseString\bin\Debug\01.ReverseString.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\ManualStringProcessing\01.ReverseString\bin\Debug\01.ReverseString.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\ManualStringProcessing\01.ReverseString\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
+c:\users\valcoder\documents\visual studio 2015\Projects\ManualStringProcessing\01.ReverseString\obj\Debug\01.ReverseString.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\ManualStringProcessing\01.ReverseString\obj\Debug\01.ReverseString.pdb

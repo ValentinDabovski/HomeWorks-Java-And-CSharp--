@@ -1,0 +1,5 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 3. Students by Age\bin\Debug\Problem_3.Students_by_Age.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 3. Students by Age\bin\Debug\Problem_3.Students_by_Age.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 3. Students by Age\bin\Debug\Problem_3.Students_by_Age.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 3. Students by Age\obj\Debug\Problem_3.Students_by_Age.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 3. Students by Age\obj\Debug\Problem_3.Students_by_Age.pdb

@@ -1,0 +1,6 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 8. Weak Students\bin\Debug\Problem_8.Weak_Students.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 8. Weak Students\bin\Debug\Problem_8.Weak_Students.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 8. Weak Students\bin\Debug\Problem_8.Weak_Students.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 8. Weak Students\obj\Debug\Problem 8. Weak Students.csprojResolveAssemblyReference.cache
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 8. Weak Students\obj\Debug\Problem_8.Weak_Students.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 8. Weak Students\obj\Debug\Problem_8.Weak_Students.pdb

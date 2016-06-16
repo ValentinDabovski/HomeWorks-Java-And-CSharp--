@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReverseString", "01.ReverseString\01.ReverseString.csproj", "{DA8235B2-E1A5-4184-B93F-5ADD9BD4C47A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.StringLenght", "02.StringLenght\02.StringLenght.csproj", "{6432C453-D878-44B8-8DA5-ECC3E8AF8E13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.CountSubstringOccurrences", "06.CountSubstringOccurrences\06.CountSubstringOccurrences.csproj", "{31B4D628-FBBC-4607-A188-6F7924A1C520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.Letters Change Numbers", "14.Letters Change Numbers\14.Letters Change Numbers.csproj", "{F4E760FF-738E-4788-AF99-CFB57137E463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Melrah Shake", "15.Melrah Shake\15.Melrah Shake.csproj", "{772E72F4-343E-4662-AC4B-097357B1FD89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.ExtractHyperlinks", "16.ExtractHyperlinks\16.ExtractHyperlinks.csproj", "{78A84D5B-BD5C-4016-A21A-BC2447EDAF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8235B2-E1A5-4184-B93F-5ADD9BD4C47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8235B2-E1A5-4184-B93F-5ADD9BD4C47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8235B2-E1A5-4184-B93F-5ADD9BD4C47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8235B2-E1A5-4184-B93F-5ADD9BD4C47A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6432C453-D878-44B8-8DA5-ECC3E8AF8E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6432C453-D878-44B8-8DA5-ECC3E8AF8E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6432C453-D878-44B8-8DA5-ECC3E8AF8E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6432C453-D878-44B8-8DA5-ECC3E8AF8E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B4D628-FBBC-4607-A188-6F7924A1C520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B4D628-FBBC-4607-A188-6F7924A1C520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B4D628-FBBC-4607-A188-6F7924A1C520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B4D628-FBBC-4607-A188-6F7924A1C520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E760FF-738E-4788-AF99-CFB57137E463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E760FF-738E-4788-AF99-CFB57137E463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E760FF-738E-4788-AF99-CFB57137E463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E760FF-738E-4788-AF99-CFB57137E463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{772E72F4-343E-4662-AC4B-097357B1FD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772E72F4-343E-4662-AC4B-097357B1FD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772E72F4-343E-4662-AC4B-097357B1FD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772E72F4-343E-4662-AC4B-097357B1FD89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A84D5B-BD5C-4016-A21A-BC2447EDAF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A84D5B-BD5C-4016-A21A-BC2447EDAF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A84D5B-BD5C-4016-A21A-BC2447EDAF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A84D5B-BD5C-4016-A21A-BC2447EDAF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

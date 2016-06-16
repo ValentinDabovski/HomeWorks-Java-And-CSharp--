@@ -1,0 +1,6 @@
+C:\Users\ValCoder\documents\visual studio 2015\Projects\ManualStringProcessing\14.Letters Change Numbers\bin\Debug\14.Letters Change Numbers.exe.config
+C:\Users\ValCoder\documents\visual studio 2015\Projects\ManualStringProcessing\14.Letters Change Numbers\bin\Debug\14.Letters Change Numbers.exe
+C:\Users\ValCoder\documents\visual studio 2015\Projects\ManualStringProcessing\14.Letters Change Numbers\bin\Debug\14.Letters Change Numbers.pdb
+C:\Users\ValCoder\documents\visual studio 2015\Projects\ManualStringProcessing\14.Letters Change Numbers\obj\Debug\14.Letters Change Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\documents\visual studio 2015\Projects\ManualStringProcessing\14.Letters Change Numbers\obj\Debug\14.Letters Change Numbers.exe
+C:\Users\ValCoder\documents\visual studio 2015\Projects\ManualStringProcessing\14.Letters Change Numbers\obj\Debug\14.Letters Change Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\ValCoder\documents\visual studio 2015\Projects\ManualStringProcessing\15.Melrah Shake\bin\Debug\15.Melrah Shake.exe.config
+C:\Users\ValCoder\documents\visual studio 2015\Projects\ManualStringProcessing\15.Melrah Shake\bin\Debug\15.Melrah Shake.exe
+C:\Users\ValCoder\documents\visual studio 2015\Projects\ManualStringProcessing\15.Melrah Shake\bin\Debug\15.Melrah Shake.pdb
+C:\Users\ValCoder\documents\visual studio 2015\Projects\ManualStringProcessing\15.Melrah Shake\obj\Debug\15.Melrah Shake.exe
+C:\Users\ValCoder\documents\visual studio 2015\Projects\ManualStringProcessing\15.Melrah Shake\obj\Debug\15.Melrah Shake.pdb
+C:\Users\ValCoder\documents\visual studio 2015\Projects\ManualStringProcessing\15.Melrah Shake\obj\Debug\15.Melrah Shake.csprojResolveAssemblyReference.cache

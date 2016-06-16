@@ -1,0 +1,1 @@
+C:\Users\ValCoder\documents\visual studio 2015\Projects\ManualStringProcessing\16.ExtractHyperlinks\bin\Debug\16.ExtractHyperlinks.exe.config

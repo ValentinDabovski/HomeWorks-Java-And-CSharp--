@@ -1,0 +1,5 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 2. Students by First and Last Name\bin\Debug\Problem_2.Students_by_First_and_Last_Name.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 2. Students by First and Last Name\bin\Debug\Problem_2.Students_by_First_and_Last_Name.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 2. Students by First and Last Name\bin\Debug\Problem_2.Students_by_First_and_Last_Name.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 2. Students by First and Last Name\obj\Debug\Problem_2.Students_by_First_and_Last_Name.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\07.LinqExercises\Problem 2. Students by First and Last Name\obj\Debug\Problem_2.Students_by_First_and_Last_Name.pdb

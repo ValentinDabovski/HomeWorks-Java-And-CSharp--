@@ -1,0 +1,6 @@
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe.config
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.pdb
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.pdb
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.csprojResolveAssemblyReference.cache

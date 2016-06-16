@@ -1,0 +1,6 @@
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.exe.config
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\04.FindEvensOrOdds\bin\Debug\04.FindEvensOrOdds.pdb
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\04.FindEvensOrOdds\obj\Debug\04.FindEvensOrOdds.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\04.FindEvensOrOdds\obj\Debug\04.FindEvensOrOdds.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\Functional Programming\04.FindEvensOrOdds\obj\Debug\04.FindEvensOrOdds.pdb

@@ -1,0 +1,5 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\ManualStringProcessing\02.StringLenght\bin\Debug\02.StringLenght.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\ManualStringProcessing\02.StringLenght\bin\Debug\02.StringLenght.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\ManualStringProcessing\02.StringLenght\bin\Debug\02.StringLenght.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\ManualStringProcessing\02.StringLenght\obj\Debug\02.StringLenght.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\ManualStringProcessing\02.StringLenght\obj\Debug\02.StringLenght.pdb
