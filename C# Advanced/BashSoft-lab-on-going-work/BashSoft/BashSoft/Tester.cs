@@ -105,4 +105,5 @@ public static class Tester
         }
         OutputWriter.WriteMessageOnNewLine("Files are indentical. There are no mismatches.");
     }
+    
 }
