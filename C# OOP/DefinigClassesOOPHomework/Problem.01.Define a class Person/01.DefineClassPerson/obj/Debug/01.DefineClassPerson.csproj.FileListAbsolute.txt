@@ -1,2 +1,0 @@
-C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\DefinigClassesOOPHomework\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.exe.config
-C:\Users\ValCoder\Documents\Github-Repository\C# OOP\DefinigClassesOOPHomework\Problem1\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.exe.config

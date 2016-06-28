@@ -1,0 +1,6 @@
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 6. Raw Data\bin\Debug\Problem_6.Raw_Data.exe.config
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 6. Raw Data\bin\Debug\Problem_6.Raw_Data.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 6. Raw Data\bin\Debug\Problem_6.Raw_Data.pdb
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 6. Raw Data\obj\Debug\Problem 6. Raw Data.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 6. Raw Data\obj\Debug\Problem_6.Raw_Data.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 6. Raw Data\obj\Debug\Problem_6.Raw_Data.pdb

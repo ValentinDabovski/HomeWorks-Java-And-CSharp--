@@ -1,0 +1,6 @@
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 5. Speed Racing\bin\Debug\Problem_5.Speed_Racing.exe.config
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 5. Speed Racing\bin\Debug\Problem_5.Speed_Racing.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 5. Speed Racing\bin\Debug\Problem_5.Speed_Racing.pdb
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 5. Speed Racing\obj\Debug\Problem 5. Speed Racing.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 5. Speed Racing\obj\Debug\Problem_5.Speed_Racing.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 5. Speed Racing\obj\Debug\Problem_5.Speed_Racing.pdb

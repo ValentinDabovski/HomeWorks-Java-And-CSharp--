@@ -1,0 +1,6 @@
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 7. Car Salesman\bin\Debug\Problem_7.Car_Salesman.exe.config
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 7. Car Salesman\bin\Debug\Problem_7.Car_Salesman.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 7. Car Salesman\bin\Debug\Problem_7.Car_Salesman.pdb
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 7. Car Salesman\obj\Debug\Problem 7. Car Salesman.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 7. Car Salesman\obj\Debug\Problem_7.Car_Salesman.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 7. Car Salesman\obj\Debug\Problem_7.Car_Salesman.pdb

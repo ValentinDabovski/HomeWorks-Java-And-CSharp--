@@ -1,0 +1,5 @@
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 2. Creating Constructors\bin\Debug\Problem_2.Creating_Constructors.exe.config
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 2. Creating Constructors\bin\Debug\Problem_2.Creating_Constructors.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 2. Creating Constructors\bin\Debug\Problem_2.Creating_Constructors.pdb
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 2. Creating Constructors\obj\Debug\Problem_2.Creating_Constructors.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 2. Creating Constructors\obj\Debug\Problem_2.Creating_Constructors.pdb

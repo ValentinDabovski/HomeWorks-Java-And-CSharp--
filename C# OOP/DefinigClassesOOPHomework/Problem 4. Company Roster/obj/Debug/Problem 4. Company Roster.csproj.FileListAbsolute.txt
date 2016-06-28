@@ -1,0 +1,6 @@
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 4. Company Roster\bin\Debug\Problem_4.Company_Roster.exe.config
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 4. Company Roster\bin\Debug\Problem_4.Company_Roster.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 4. Company Roster\bin\Debug\Problem_4.Company_Roster.pdb
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 4. Company Roster\obj\Debug\Problem 4. Company Roster.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 4. Company Roster\obj\Debug\Problem_4.Company_Roster.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\Problem 4. Company Roster\obj\Debug\Problem_4.Company_Roster.pdb

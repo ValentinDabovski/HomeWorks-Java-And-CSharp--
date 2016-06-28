@@ -1,0 +1,7 @@
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\DefinigClassesOOPHomework\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.exe.config
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.exe.config
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\01.DefineClassPerson\bin\Debug\01.DefineClassPerson.pdb
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\01.DefineClassPerson\obj\Debug\01.DefineClassPerson.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\01.DefineClassPerson\obj\Debug\01.DefineClassPerson.exe
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP\DefinigClassesOOPHomework\01.DefineClassPerson\obj\Debug\01.DefineClassPerson.pdb
