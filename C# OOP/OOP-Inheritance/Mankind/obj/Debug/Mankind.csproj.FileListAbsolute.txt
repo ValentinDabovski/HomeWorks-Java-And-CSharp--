@@ -1,0 +1,6 @@
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Mankind\bin\Debug\Mankind.exe.config
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Mankind\bin\Debug\Mankind.exe
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Mankind\bin\Debug\Mankind.pdb
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Mankind\obj\Debug\Mankind.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Mankind\obj\Debug\Mankind.exe
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Mankind\obj\Debug\Mankind.pdb

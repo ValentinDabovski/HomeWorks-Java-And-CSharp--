@@ -1,0 +1,1 @@
+C:\Users\ValCoder\Documents\Visual Studio 2015\Projects\C# OOP-Adanced\Iterators and Comparators\IteratorsAndComparators\Problem 1. ListyIterator\bin\Debug\Problem_1.ListyIterator.exe.config

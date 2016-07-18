@@ -1,0 +1,6 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\OOP-Inheritance\Problem1-Person\bin\Debug\Problem1-Person.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\OOP-Inheritance\Problem1-Person\bin\Debug\Problem1-Person.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\OOP-Inheritance\Problem1-Person\bin\Debug\Problem1-Person.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\OOP-Inheritance\Problem1-Person\obj\Debug\Problem1-Person.csprojResolveAssemblyReference.cache
+c:\users\valcoder\documents\visual studio 2015\Projects\OOP-Inheritance\Problem1-Person\obj\Debug\Problem1-Person.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\OOP-Inheritance\Problem1-Person\obj\Debug\Problem1-Person.pdb

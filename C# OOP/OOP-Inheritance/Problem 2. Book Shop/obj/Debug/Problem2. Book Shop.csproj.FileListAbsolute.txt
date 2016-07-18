@@ -1,0 +1,6 @@
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Problem 2. Book Shop\bin\Debug\Problem_2.Book_Shop.exe.config
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Problem 2. Book Shop\bin\Debug\Problem_2.Book_Shop.exe
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Problem 2. Book Shop\bin\Debug\Problem_2.Book_Shop.pdb
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Problem 2. Book Shop\obj\Debug\Problem_2.Book_Shop.exe
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Problem 2. Book Shop\obj\Debug\Problem_2.Book_Shop.pdb
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Problem 2. Book Shop\obj\Debug\Problem2. Book Shop.csprojResolveAssemblyReference.cache

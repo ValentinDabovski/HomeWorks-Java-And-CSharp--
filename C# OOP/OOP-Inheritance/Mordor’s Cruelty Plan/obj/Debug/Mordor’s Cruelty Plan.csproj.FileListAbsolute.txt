@@ -1,0 +1,6 @@
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Mordor’s Cruelty Plan\bin\Debug\Mordor’s Cruelty Plan.exe.config
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Mordor’s Cruelty Plan\bin\Debug\Mordor’s Cruelty Plan.exe
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Mordor’s Cruelty Plan\bin\Debug\Mordor’s Cruelty Plan.pdb
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Mordor’s Cruelty Plan\obj\Debug\Mordor’s Cruelty Plan.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Mordor’s Cruelty Plan\obj\Debug\Mordor’s Cruelty Plan.exe
+C:\Users\ValCoder\documents\visual studio 2015\Projects\OOP-Inheritance\Mordor’s Cruelty Plan\obj\Debug\Mordor’s Cruelty Plan.pdb
