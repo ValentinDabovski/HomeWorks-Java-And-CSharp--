@@ -1,6 +1,0 @@
-C:\Users\ValCoder\Desktop\BashSoft\BashSoft\BashSoft\bin\Debug\BashSoft.exe.config
-C:\Users\ValCoder\Desktop\BashSoft\BashSoft\BashSoft\bin\Debug\BashSoft.exe
-C:\Users\ValCoder\Desktop\BashSoft\BashSoft\BashSoft\bin\Debug\BashSoft.pdb
-C:\Users\ValCoder\Desktop\BashSoft\BashSoft\BashSoft\obj\Debug\BashSoft.exe
-C:\Users\ValCoder\Desktop\BashSoft\BashSoft\BashSoft\obj\Debug\BashSoft.pdb
-C:\Users\ValCoder\Desktop\BashSoft\BashSoft\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache

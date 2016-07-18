@@ -1,0 +1,6 @@
+C:\Users\ValCoder\Desktop\Lab\StoryMode\StoryMode\Executor\bin\Debug\Executor.exe.config
+C:\Users\ValCoder\Desktop\Lab\StoryMode\StoryMode\Executor\bin\Debug\Executor.exe
+C:\Users\ValCoder\Desktop\Lab\StoryMode\StoryMode\Executor\bin\Debug\Executor.pdb
+C:\Users\ValCoder\Desktop\Lab\StoryMode\StoryMode\Executor\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\Desktop\Lab\StoryMode\StoryMode\Executor\obj\Debug\Executor.exe
+C:\Users\ValCoder\Desktop\Lab\StoryMode\StoryMode\Executor\obj\Debug\Executor.pdb
