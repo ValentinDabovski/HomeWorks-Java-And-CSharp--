@@ -5,22 +5,24 @@ using System.Net;
 using System.Runtime.Remoting.Messaging;
 using System.Text;
 using Executor.Exceptions;
+using Executor.Interfaces;
 using Executor.IO.Commands;
+using Executor.IO.Interfaces;
 using Executor.Network;
 using Executor.Judge;
 using Executor.Repository;
 
 namespace Executor.IO
 {
-    public class CommandInterpreter
+    public class CommandInterpreter : IInterpreter
     {
-        private Tester judge;
-        private StudentsRepository repository;
-        private DownloadManager downloadManager;
-        private IOManager inputOutputManager;
+        private ITester judge;
+        private IDatabase repository;
+        private IDownloader downloadManager;
+        private IDirectoryManager inputOutputManager;
 
-        public CommandInterpreter(Tester judge, StudentsRepository repository,
-            DownloadManager downloadManager, IOManager inputOutputManager)
+        public CommandInterpreter(ITester judge, IDatabase repository,
+            IDownloader downloadManager, IDirectoryManager inputOutputManager)
         {
             this.judge = judge;
             this.repository = repository;
@@ -35,7 +37,7 @@ namespace Executor.IO
 
             try
             {
-                Command command = this.ParseCommand(input, commandName, data);
+                IExecutable command = this.ParseCommand(input, commandName, data);
                 command.Execute();
             }
             catch (Exception ex)
@@ -44,7 +46,7 @@ namespace Executor.IO
             }
         }
 
-        private Command ParseCommand(string input, string command, string[] data)
+        private IExecutable ParseCommand(string input, string command, string[] data)
         {
             switch (command)
             {

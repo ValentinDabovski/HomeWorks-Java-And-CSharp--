@@ -1,16 +1,17 @@
 ﻿using System;
 using System.Linq;
 using System.Threading.Tasks;
+using Executor.IO.Interfaces;
 
 namespace Executor.IO
 {
-    public class InputReader
+    public class InputReader : IReader
     {
         private const string endCommand = "exit";
 
-        private CommandInterpreter interpreter;
+        private IInterpreter interpreter;
 
-        public InputReader(CommandInterpreter interpreter)
+        public InputReader(IInterpreter interpreter)
         {
             this.interpreter = interpreter;
         }

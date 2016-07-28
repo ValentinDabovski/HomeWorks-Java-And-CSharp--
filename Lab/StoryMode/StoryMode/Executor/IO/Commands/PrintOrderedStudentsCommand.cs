@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Executor.Interfaces;
+using Executor.IO.Interfaces;
 using Executor.Network;
 using Executor.Repository;
 using Executor.Judge;
@@ -11,8 +13,8 @@ namespace Executor.IO.Commands
 {
     class PrintOrderedStudentsCommand  : Command
     {
-        public PrintOrderedStudentsCommand(string input, string[] data, Tester tester,
-            StudentsRepository repository, DownloadManager downloadManager, IOManager ioManager)
+        public PrintOrderedStudentsCommand(string input, string[] data, ITester tester,
+            IDatabase repository, IDownloader downloadManager, IDirectoryManager ioManager)
             : base(input, data, tester, repository, downloadManager, ioManager)
         {
         }

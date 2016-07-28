@@ -5,10 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Executor.Exceptions;
+using Executor.IO.Interfaces;
 
 namespace Executor.Models
 {
-    public class Course 
+    public class Course :ICourse
     {
         public const int NumberOfTasksOnExam = 5;
         public const int MaxScoreOnExamTask = 100;
@@ -46,6 +47,16 @@ namespace Executor.Models
             {
                 return this.studentsByName;
             }
+        }
+
+        public string getName()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Dictionary<string, Student> GetStudentByName()
+        {
+            throw new NotImplementedException();
         }
 
         public void EnrollStudent(Student student)

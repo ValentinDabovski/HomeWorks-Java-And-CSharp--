@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.IO;
 using Executor.Exceptions;
+using Executor.IO.Interfaces;
 
 namespace Executor.IO
 {
-    public class IOManager
+    public class IOManager : IDirectoryManager
     {
         public void TraverseDirectory(int depth)
         {
@@ -13,7 +14,7 @@ namespace Executor.IO
             int initialIdentation = SessionData.currentPath.Split('\\').Length;
             Queue<string> subFolders = new Queue<string>();
             subFolders.Enqueue(SessionData.currentPath);
-
+                
             while (subFolders.Count != 0)
             {
                 string currentPath = subFolders.Dequeue();

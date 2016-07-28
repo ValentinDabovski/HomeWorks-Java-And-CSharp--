@@ -4,24 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Executor.Exceptions;
+using Executor.Interfaces;
+using Executor.IO.Interfaces;
 using Executor.Network;
 using Executor.Repository;
 using Executor.Judge;
 
 namespace Executor.IO.Commands
 {
-    public abstract class Command
+    public abstract class Command : IExecutable
     {
         private string input;
         private string[] data;
 
-        private Tester tester;
-        private StudentsRepository repository;
-        private DownloadManager downloadManager;
-        private IOManager inputOutputManager;
+        private ITester tester;
+        private IDatabase repository;
+        private IDownloader downloadManager;
+        private IDirectoryManager inputOutputManager;
 
-        public Command(string input, string[] data, Tester tester, StudentsRepository repository,
-            DownloadManager downloadManager, IOManager ioManager)
+        protected Command(string input, string[] data, ITester tester, IDatabase repository,
+            IDownloader downloadManager, IDirectoryManager ioManager)
         {
             this.Input = input;
             this.Data = data;
@@ -61,22 +63,22 @@ namespace Executor.IO.Commands
             }
         }
 
-        protected StudentsRepository Repository
+        protected IDatabase Repository
         {
             get { return this.repository; }
         }
 
-        protected Tester Tester
+        protected ITester Tester
         {
             get { return this.tester; }
         }
 
-        protected IOManager InputOutputManager
+        protected IDirectoryManager InputOutputManager
         {
             get { return this.inputOutputManager; }
         }
 
-        protected DownloadManager DownloadManager
+        protected IDownloader DownloadManager
         {
             get { return this.downloadManager; }
         }

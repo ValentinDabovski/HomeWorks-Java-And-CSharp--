@@ -4,12 +4,13 @@ using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 using Executor.Exceptions;
+using Executor.Interfaces;
 using Executor.Models;
 using Executor.IO;
 
 namespace Executor.Repository
 {
-    public class StudentsRepository
+    public class StudentsRepository : IDatabase
     {
         private Dictionary<string, Course> courses;
         private Dictionary<string, Student> students;

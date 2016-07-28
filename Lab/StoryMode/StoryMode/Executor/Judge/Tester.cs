@@ -1,11 +1,12 @@
 ﻿using System;
 using System.IO;
 using Executor.Exceptions;
+using Executor.Interfaces;
 using Executor.IO;
 
 namespace Executor.Judge
 {
-    public class Tester
+    public class Tester: ITester
     {
         public void CompareContent(string userOutputPath, string expectedOutputPath)
         {

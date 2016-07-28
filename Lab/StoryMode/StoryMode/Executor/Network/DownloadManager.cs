@@ -8,11 +8,12 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using Executor.Exceptions;
+using Executor.Interfaces;
 using Executor.IO;
 
 namespace Executor.Network
 {
-    public class DownloadManager
+    public class DownloadManager : IDownloader, IAsynchDownloader
     {
         private WebClient webClient;
 
