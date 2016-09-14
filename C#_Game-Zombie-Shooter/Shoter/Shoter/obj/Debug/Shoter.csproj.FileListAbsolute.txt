@@ -1,0 +1,9 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\Shoter\Shoter\bin\Debug\Shoter.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\Shoter\Shoter\bin\Debug\Shoter.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\Shoter\Shoter\bin\Debug\Shoter.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\Shoter\Shoter\obj\Debug\Shoter.csprojResolveAssemblyReference.cache
+c:\users\valcoder\documents\visual studio 2015\Projects\Shoter\Shoter\obj\Debug\Shoter.Properties.Resources.resources
+c:\users\valcoder\documents\visual studio 2015\Projects\Shoter\Shoter\obj\Debug\Shoter.csproj.GenerateResource.Cache
+c:\users\valcoder\documents\visual studio 2015\Projects\Shoter\Shoter\obj\Debug\Shoter.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\Shoter\Shoter\obj\Debug\Shoter.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\Shoter\Shoter\obj\Debug\Shoter.Shooter.resources
