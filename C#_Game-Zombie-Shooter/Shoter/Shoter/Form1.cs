@@ -19,9 +19,15 @@ namespace Shoter
         private int cursX = 0;
         private int cursY = 0;
 
+        CZombie zombie;
+        GroundCracks craks;
+
         public Shooter()
         {
             InitializeComponent();
+            zombie = new CZombie() { Left = 280, Top = 400 };
+            craks = new GroundCracks() { Left = 180, Top = 200 };
+            
         }
 
         private void timerGameLoop_Tick(object sender, EventArgs e)
@@ -38,6 +44,7 @@ namespace Shoter
             Font font = new System.Drawing.Font("Stemcil", 12, FontStyle.Regular);
             TextRenderer.DrawText(dc, "x=" + cursX.ToString() + ":" + "Y=" + cursY.ToString(), font, new Rectangle(0, 0, 120, 20), SystemColors.ControlText, flags);
 #endif
+            zombie.DrawImage(dc);
 
             base.OnPaint(e);
         }
