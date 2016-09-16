@@ -26,7 +26,7 @@ namespace Shoter
             InitializeComponent();
             zombie = new CZombie() { Left = 300, Top = 400 };
             craks = new GroundCracks() { Left = 280, Top = 400 };
-            zombieHoldingMenu = new InGameMenu() { Left = 730, Top = 10 };
+            zombieHoldingMenu = new InGameMenu() { Left = 1150, Top = 500 };
             
         }
 

@@ -38,14 +38,17 @@
             // 
             // Shooter
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.AutoScroll = true;
-            this.AutoSize = true;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.AutoValidate = System.Windows.Forms.AutoValidate.Disable;
             this.BackgroundImage = global::Shoter.Properties.Resources.graveyardBackground1;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1258, 744);
+            this.CausesValidation = false;
+            this.ClientSize = new System.Drawing.Size(1262, 673);
             this.DoubleBuffered = true;
+            this.Enabled = false;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.MaximizeBox = false;
             this.Name = "Shooter";
             this.Text = "Shooter";
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Shooter_MouseMove);
