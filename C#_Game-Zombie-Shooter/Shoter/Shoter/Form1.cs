@@ -1,7 +1,5 @@
 ﻿#define My_Debug
 
-
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -21,12 +19,14 @@ namespace Shoter
 
         CZombie zombie;
         GroundCracks craks;
+        InGameMenu zombieHoldingMenu;
 
         public Shooter()
         {
             InitializeComponent();
-            zombie = new CZombie() { Left = 280, Top = 400 };
-            craks = new GroundCracks() { Left = 180, Top = 200 };
+            zombie = new CZombie() { Left = 300, Top = 400 };
+            craks = new GroundCracks() { Left = 280, Top = 400 };
+            zombieHoldingMenu = new InGameMenu() { Left = 730, Top = 10 };
             
         }
 
@@ -45,6 +45,10 @@ namespace Shoter
             TextRenderer.DrawText(dc, "x=" + cursX.ToString() + ":" + "Y=" + cursY.ToString(), font, new Rectangle(0, 0, 120, 20), SystemColors.ControlText, flags);
 #endif
             zombie.DrawImage(dc);
+
+            craks.DrawImage(dc);
+
+            zombieHoldingMenu.DrawImage(dc);
 
             base.OnPaint(e);
         }

@@ -83,6 +83,16 @@ namespace Shoter.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap zombie_holding_sign_1 {
+            get {
+                object obj = ResourceManager.GetObject("zombie_holding_sign_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap zombie3 {
             get {
                 object obj = ResourceManager.GetObject("zombie3", resourceCulture);

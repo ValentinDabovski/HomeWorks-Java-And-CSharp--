@@ -7,3 +7,12 @@ c:\users\valcoder\documents\visual studio 2015\Projects\Shoter\Shoter\obj\Debug\
 c:\users\valcoder\documents\visual studio 2015\Projects\Shoter\Shoter\obj\Debug\Shoter.exe
 c:\users\valcoder\documents\visual studio 2015\Projects\Shoter\Shoter\obj\Debug\Shoter.pdb
 c:\users\valcoder\documents\visual studio 2015\Projects\Shoter\Shoter\obj\Debug\Shoter.Shooter.resources
+C:\Users\ValCoder\Documents\LocalRepo\C#_Game-Zombie-Shooter\Shoter\Shoter\bin\Debug\Shoter.exe.config
+C:\Users\ValCoder\Documents\LocalRepo\C#_Game-Zombie-Shooter\Shoter\Shoter\obj\Debug\Shoter.exe
+C:\Users\ValCoder\Documents\LocalRepo\C#_Game-Zombie-Shooter\Shoter\Shoter\obj\Debug\Shoter.pdb
+C:\Users\ValCoder\Documents\LocalRepo\C#_Game-Zombie-Shooter\Shoter\Shoter\bin\Debug\Shoter.exe
+C:\Users\ValCoder\Documents\LocalRepo\C#_Game-Zombie-Shooter\Shoter\Shoter\bin\Debug\Shoter.pdb
+C:\Users\ValCoder\Documents\LocalRepo\C#_Game-Zombie-Shooter\Shoter\Shoter\obj\Debug\Shoter.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\Documents\LocalRepo\C#_Game-Zombie-Shooter\Shoter\Shoter\obj\Debug\Shoter.Shooter.resources
+C:\Users\ValCoder\Documents\LocalRepo\C#_Game-Zombie-Shooter\Shoter\Shoter\obj\Debug\Shoter.Properties.Resources.resources
+C:\Users\ValCoder\Documents\LocalRepo\C#_Game-Zombie-Shooter\Shoter\Shoter\obj\Debug\Shoter.csproj.GenerateResource.Cache

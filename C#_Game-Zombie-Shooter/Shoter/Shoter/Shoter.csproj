@@ -55,6 +55,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="GroundCracks.cs" />
+    <Compile Include="InGameMenu.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -91,6 +92,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\crack3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zombie_holding_sign_1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
