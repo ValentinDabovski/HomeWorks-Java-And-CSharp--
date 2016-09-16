@@ -29,7 +29,7 @@ namespace Shoter
             zombie = new CZombie() { Left = 300, Top = 400 };
             craks = new GroundCracks() { Left = 280, Top = 400 };
             zombieHoldingMenu = new InGameMenu() { Left = 1150, Top = 500 };
-            scoreTable = new ScoreTable() { Left = 1100, Top = 145 };
+            scoreTable = new ScoreTable() { Left = 1078, Top = 105 };
             
         }
 

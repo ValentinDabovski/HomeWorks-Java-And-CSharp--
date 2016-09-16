@@ -55,6 +55,5 @@ namespace Shoter
             }
             disposed = true;
         }
-
     }
 }
