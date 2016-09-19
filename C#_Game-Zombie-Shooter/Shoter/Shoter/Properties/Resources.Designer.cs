@@ -61,6 +61,15 @@ namespace Shoter.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _380_gunshot_single_mike_koenig {
+            get {
+                return ResourceManager.GetStream("_380_gunshot_single_mike_koenig", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap blood_drop_splat_0002 {

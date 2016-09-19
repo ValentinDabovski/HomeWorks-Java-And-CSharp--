@@ -62,7 +62,7 @@ namespace Shoter
 
         private void timerGameLoop_Tick(object sender, EventArgs e)
         {
-            if (gameFrame >= 15)
+            if (gameFrame >= 8)
             {
                 UpdateZombie();
                 gameFrame = 0;
@@ -74,7 +74,7 @@ namespace Shoter
 
             if (splat)
             {
-                if (splatTime >= 2)
+                if (splatTime >= 1)
                 {
                     splat = false;
                     splatTime = 0;
@@ -88,7 +88,7 @@ namespace Shoter
         {
             zombie.Update(random.Next(Resources.zombie3.Width, this.Width - Resources.zombie3.Width),
             random.Next(this.Height / 2, this.Height - Resources.zombie3.Height * 2));
-            
+
         }
 
         protected override void OnPaint(PaintEventArgs e)
@@ -98,7 +98,7 @@ namespace Shoter
             if (splat == true)
             {
                 bloodSplat.DrawImage(dc);
-                
+
                 bloodSplat.DrawImage(dc);
             }
 
@@ -107,6 +107,10 @@ namespace Shoter
                 zombie.DrawImage(dc);
             }
 
+
+            zombieHoldingMenu.DrawImage(dc);
+
+            scoreTable.DrawImage(dc);
 #if My_Debug
             TextFormatFlags flags = TextFormatFlags.Left | TextFormatFlags.EndEllipsis;
             Font font = new System.Drawing.Font("Stemcil", 12, FontStyle.Regular);
@@ -116,14 +120,13 @@ namespace Shoter
             // Points On Screen 
             TextFormatFlags points = TextFormatFlags.Left;
             Font font2 = new System.Drawing.Font("Stencil", 12, FontStyle.Regular);
-            TextRenderer.DrawText(e.Graphics, "Shots: " + totalshots.ToString(), font2, new Rectangle(1050, 148, 120, 20), SystemColors.ControlText, points);
+            TextRenderer.DrawText(e.Graphics, "Shots: " + totalshots.ToString(), font2, new Rectangle(1120, 140, 120, 20), SystemColors.ControlText, points);
+            TextRenderer.DrawText(e.Graphics, "Hits: " + hits.ToString(), font2, new Rectangle(1120, 160, 120, 20), SystemColors.ControlText, points);
+            TextRenderer.DrawText(e.Graphics, "Misses: " + misses.ToString(), font2, new Rectangle(1120, 180, 120, 20), SystemColors.ControlText, points);
+            TextRenderer.DrawText(e.Graphics, "Average: " + averageShots.ToString("F0") + "%", font2, new Rectangle(1120, 200, 120, 20), SystemColors.ControlText, points);
 
 
 
-
-            zombieHoldingMenu.DrawImage(dc);
-
-            scoreTable.DrawImage(dc);
 
             base.OnPaint(e);
         }
@@ -159,10 +162,20 @@ namespace Shoter
                 {
                     splat = true;
 
-                   bloodSplat.Left = zombie.Left - Resources.blood_drop_splat_0002.Width / 4 ;
-                   bloodSplat.Top = zombie.Top - Resources.blood_drop_splat_0002.Height / 2;
+                    bloodSplat.Left = zombie.Left - Resources.blood_drop_splat_0002.Width / 4;
+                    bloodSplat.Top = zombie.Top - Resources.blood_drop_splat_0002.Height / 2;
 
-                };
+                    hits++;
+
+                }
+
+                else
+                {
+                    misses++;
+                }
+
+                totalshots = hits + misses;
+                averageShots = (double)hits / (double)totalshots * 100.0;
             }
 
             GunFire();
@@ -170,8 +183,8 @@ namespace Shoter
 
         private void GunFire()
         {
-            //SoundPlayer sound = new SoundPlayer(Resources.shotgun_spas_12_RA_The_Sun_God_503834910);
-            //sound.Play();
+            SoundPlayer sound = new SoundPlayer(Resources._380_gunshot_single_mike_koenig);
+            sound.Play();
         }
     }
 }
