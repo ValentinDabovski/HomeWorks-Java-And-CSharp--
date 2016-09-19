@@ -46,8 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BloodAnimation.cs" />
-    <Compile Include="BloodSplat.cs" />
+    <Compile Include="Models\BloodSplat.cs" />
     <Compile Include="CImageBase.cs" />
     <Compile Include="CustomCursor.cs" />
     <Compile Include="Models\CZombie.cs" />
@@ -64,7 +63,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="ScoreTable.cs" />
+    <Compile Include="Models\ScoreTable.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -114,6 +113,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\380_gunshot_single-mike-koenig.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GunSught.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

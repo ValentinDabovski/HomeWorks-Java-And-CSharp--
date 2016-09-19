@@ -1,4 +1,4 @@
-﻿#define My_Debug
+﻿// #define My_Debug
 
 using System;
 using System.Collections.Generic;
@@ -45,7 +45,7 @@ namespace Shoter
         {
             InitializeComponent();
 
-            Bitmap bmp = new Bitmap(Resources.gunSight_red);
+            Bitmap bmp = new Bitmap(Resources.GunSught);
 
             this.Cursor = CustomCursor.CreateCursor(bmp, bmp.Height / 2, bmp.Width / 2);
 
@@ -62,7 +62,7 @@ namespace Shoter
 
         private void timerGameLoop_Tick(object sender, EventArgs e)
         {
-            if (gameFrame >= 8)
+            if (gameFrame >= 7)
             {
                 UpdateZombie();
                 gameFrame = 0;
@@ -154,6 +154,7 @@ namespace Shoter
             else if (e.X > 1168 && e.X < 1205 && e.Y > 645 && e.Y < 652) // QUIT GAME 
             {
                 timerGameLoop.Stop();
+                Application.Exit();
             }
 
             else
