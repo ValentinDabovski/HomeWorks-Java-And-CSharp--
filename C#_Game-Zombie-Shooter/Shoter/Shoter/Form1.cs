@@ -24,14 +24,21 @@ namespace Shoter
         private int cursX = 0;
         private int cursY = 0;
 
-        CZombie zombie;
-        GroundCracks craks;
-        InGameMenu zombieHoldingMenu;
-        ScoreTable scoreTable;
-         BloodSplat bloodSplat;
+        int hits = 0;
+        int misses = 0;
+        int totalshots = 0;
+        double averageShots = 0;
 
-        BloodAnimation bloodAnimation;
-        
+        CZombie zombie;
+
+        GroundCracks craks;
+
+        InGameMenu zombieHoldingMenu;
+
+        ScoreTable scoreTable;
+
+        BloodSplat bloodSplat;
+
         Random random = new Random();
 
         public Shooter()
@@ -39,23 +46,18 @@ namespace Shoter
             InitializeComponent();
 
             Bitmap bmp = new Bitmap(Resources.gunSight_red);
+
             this.Cursor = CustomCursor.CreateCursor(bmp, bmp.Height / 2, bmp.Width / 2);
 
-
             zombie = new CZombie() { Left = 300, Top = 400 };
-            craks = new GroundCracks() { Left = 280, Top = 400 };
-            zombieHoldingMenu = new InGameMenu() { Left = 1120, Top = 470 };
-            scoreTable = new ScoreTable() { Left = 1078, Top = 105 };
-            bloodSplat = new BloodSplat();
-            bloodAnimation = new BloodAnimation(new Bitmap[] {Resources.blood_drop_splat_0001,
-              Resources.blood_drop_splat_0002,
-              Resources.blood_drop_splat_0003,
-              Resources.blood_drop_splat_0004,
-              Resources.blood_drop_splat_0005,
-              Resources.blood_drop_splat_0006,
-              Resources.blood_drop_splat_0007,
-              Resources.blood_drop_splat_0008});
 
+            craks = new GroundCracks() { Left = 280, Top = 400 };
+
+            zombieHoldingMenu = new InGameMenu() { Left = 1120, Top = 470 };
+
+            scoreTable = new ScoreTable() { Left = 1078, Top = 105 };
+
+            bloodSplat = new BloodSplat();
         }
 
         private void timerGameLoop_Tick(object sender, EventArgs e)
@@ -86,6 +88,7 @@ namespace Shoter
         {
             zombie.Update(random.Next(Resources.zombie3.Width, this.Width - Resources.zombie3.Width),
             random.Next(this.Height / 2, this.Height - Resources.zombie3.Height * 2));
+            
         }
 
         protected override void OnPaint(PaintEventArgs e)
@@ -94,16 +97,15 @@ namespace Shoter
 
             if (splat == true)
             {
-                // bloodSplat.DrawImage(dc);
-                dc.DrawImage(bloodAnimation.GiveNextImage(), zombie.Left / 4, zombie.Top / 4 );
-
+                bloodSplat.DrawImage(dc);
+                
+                bloodSplat.DrawImage(dc);
             }
+
             else
             {
                 zombie.DrawImage(dc);
             }
-
-
 
 #if My_Debug
             TextFormatFlags flags = TextFormatFlags.Left | TextFormatFlags.EndEllipsis;
@@ -111,9 +113,18 @@ namespace Shoter
             TextRenderer.DrawText(dc, "x=" + cursX.ToString() + ":" + "Y=" + cursY.ToString(), font, new Rectangle(0, 0, 120, 20), SystemColors.ControlText, flags);
 #endif
 
-            craks.DrawImage(dc);
+            // Points On Screen 
+            TextFormatFlags points = TextFormatFlags.Left;
+            Font font2 = new System.Drawing.Font("Stencil", 12, FontStyle.Regular);
+            TextRenderer.DrawText(e.Graphics, "Shots: " + totalshots.ToString(), font2, new Rectangle(1050, 148, 120, 20), SystemColors.ControlText, points);
+
+
+
+
             zombieHoldingMenu.DrawImage(dc);
+
             scoreTable.DrawImage(dc);
+
             base.OnPaint(e);
         }
 
@@ -147,11 +158,9 @@ namespace Shoter
                 if (zombie.Hit(e.X, e.Y))
                 {
                     splat = true;
-                     // bloodSplat.Left = zombie.Left - Resources.blood_drop_splat_0002.Width;
-                    // bloodSplat.Top = zombie.Top - Resources.blood_drop_splat_0002.Height;
 
-                    zombie.Top = bloodAnimation.GiveNextImage().Height;
-                    zombie.Left = bloodAnimation.GiveNextImage().Width;
+                   bloodSplat.Left = zombie.Left - Resources.blood_drop_splat_0002.Width / 4 ;
+                   bloodSplat.Top = zombie.Top - Resources.blood_drop_splat_0002.Height / 2;
 
                 };
             }

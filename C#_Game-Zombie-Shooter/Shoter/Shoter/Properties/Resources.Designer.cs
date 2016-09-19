@@ -63,79 +63,9 @@ namespace Shoter.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap blood_drop_splat_0001 {
-            get {
-                object obj = ResourceManager.GetObject("blood_drop_splat_0001", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap blood_drop_splat_0002 {
             get {
                 object obj = ResourceManager.GetObject("blood_drop_splat_0002", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap blood_drop_splat_0003 {
-            get {
-                object obj = ResourceManager.GetObject("blood_drop_splat_0003", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap blood_drop_splat_0004 {
-            get {
-                object obj = ResourceManager.GetObject("blood_drop_splat_0004", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap blood_drop_splat_0005 {
-            get {
-                object obj = ResourceManager.GetObject("blood_drop_splat_0005", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap blood_drop_splat_0006 {
-            get {
-                object obj = ResourceManager.GetObject("blood_drop_splat_0006", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap blood_drop_splat_0007 {
-            get {
-                object obj = ResourceManager.GetObject("blood_drop_splat_0007", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap blood_drop_splat_0008 {
-            get {
-                object obj = ResourceManager.GetObject("blood_drop_splat_0008", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -166,26 +96,6 @@ namespace Shoter.Properties {
         internal static System.Drawing.Bitmap gunSight_red {
             get {
                 object obj = ResourceManager.GetObject("gunSight_red", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap GunSught {
-            get {
-                object obj = ResourceManager.GetObject("GunSught", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap GunSught_1 {
-            get {
-                object obj = ResourceManager.GetObject("GunSught_1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

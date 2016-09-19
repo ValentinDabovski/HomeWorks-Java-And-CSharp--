@@ -20,7 +20,7 @@ namespace Shoter
         {
             Left = X;
             Top = Y;
-            zombieHotSpot.X = Left + 20;  // zombie hot spot shots 
+            zombieHotSpot.X = Left + 40;  // zombie hot spot shots 
             zombieHotSpot.Y = Top - 1;
         }
 
