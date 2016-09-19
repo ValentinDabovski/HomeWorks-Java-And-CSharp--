@@ -163,10 +163,49 @@ namespace Shoter.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap gunSight_red {
+            get {
+                object obj = ResourceManager.GetObject("gunSight_red", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap GunSught {
+            get {
+                object obj = ResourceManager.GetObject("GunSught", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap GunSught_1 {
+            get {
+                object obj = ResourceManager.GetObject("GunSught_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ScoreSign {
             get {
                 object obj = ResourceManager.GetObject("ScoreSign", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream shotgun_spas_12_RA_The_Sun_God_503834910 {
+            get {
+                return ResourceManager.GetStream("shotgun_spas_12_RA_The_Sun_God_503834910", resourceCulture);
             }
         }
         

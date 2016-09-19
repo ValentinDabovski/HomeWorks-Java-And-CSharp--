@@ -46,12 +46,13 @@
             this.ClientSize = new System.Drawing.Size(1262, 673);
             this.DoubleBuffered = true;
             this.Enabled = false;
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MaximizeBox = false;
             this.Name = "Shooter";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Zombie Shooter";
+            this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Shooter_MouseClick);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Shooter_MouseMove);
             this.ResumeLayout(false);
 

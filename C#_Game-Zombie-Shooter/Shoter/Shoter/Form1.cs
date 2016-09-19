@@ -9,6 +9,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Shoter.Properties;
+using System.Media;
 
 namespace Shoter
 {
@@ -26,9 +28,13 @@ namespace Shoter
         {
             InitializeComponent();
 
+            // Bitmap bmp = new Bitmap(Resources.gunSight_red);
+            //  this.Cursor = CustomCursor.CreateCursor(bmp, bmp.Height, bmp.Width);
+
+
             zombie = new CZombie() { Left = 300, Top = 400 };
             craks = new GroundCracks() { Left = 280, Top = 400 };
-            zombieHoldingMenu = new InGameMenu() { Left = 1150, Top = 500 };
+            zombieHoldingMenu = new InGameMenu() { Left = 1120, Top = 470 };
             scoreTable = new ScoreTable() { Left = 1078, Top = 105 };
             
         }
@@ -64,6 +70,32 @@ namespace Shoter
             cursY = e.Y;
 
             this.Refresh();
+        }
+
+        private void Shooter_MouseClick(object sender, MouseEventArgs e)
+        {
+            if (e.X > 1150 && e.X < 1220 && e.Y > 560 && e.Y < 575)
+            {
+                timerGameLoop.Start();
+            }
+
+            else if (e.X > 1165 && e.X < 1210 && e.Y > 605 && e.Y < 616)
+            {
+                timerGameLoop.Stop();
+            }
+
+            else if (e.X > 1168 && e.X < 1205 && e.Y > 645 && e.Y < 652)
+            {
+                timerGameLoop.Stop();
+            }
+
+            GunFire();
+        }
+
+        private void GunFire()
+        {
+            SoundPlayer sound = new SoundPlayer(Resources.shotgun_spas_12_RA_The_Sun_God_503834910);
+            sound.Play();
         }
     }
 }
