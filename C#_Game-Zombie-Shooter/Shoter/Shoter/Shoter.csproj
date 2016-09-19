@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BloodAnimation.cs" />
     <Compile Include="BloodSplat.cs" />
     <Compile Include="CImageBase.cs" />
     <Compile Include="CustomCursor.cs" />
@@ -97,6 +98,24 @@
     <None Include="Resources\crack3.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\zombie_holding_sign_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GunSught.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GunSught-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScoreSign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gunSight_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shotgun-spas_12-RA_The_Sun_God-503834910.wav" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\blood_drop_splat_0001.png" />
   </ItemGroup>
   <ItemGroup>
@@ -119,24 +138,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\blood_drop_splat_0008.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\zombie_holding_sign_1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\GunSught.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\GunSught-1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ScoreSign.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\gunSight_red.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\shotgun-spas_12-RA_The_Sun_God-503834910.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

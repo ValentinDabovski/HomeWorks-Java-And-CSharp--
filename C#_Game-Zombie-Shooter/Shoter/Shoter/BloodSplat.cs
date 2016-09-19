@@ -10,23 +10,13 @@ namespace Shoter
 {
     class BloodSplat : CImageBase
     {
-        private Rectangle bloodSplats = new Rectangle();
-
-       private static List<Bitmap> bloodSplat = new List<Bitmap>
+        private Rectangle bloodSplat = new Rectangle();
+        public BloodSplat() : base(Resources.blood_drop_splat_0002)
         {
-            Resources.blood_drop_splat_0001,
-            Resources.blood_drop_splat_0002,
-            Resources.blood_drop_splat_0003,
-            Resources.blood_drop_splat_0004,
-            Resources.blood_drop_splat_0005,
-            Resources.blood_drop_splat_0006,
-            Resources.blood_drop_splat_0007,
-            Resources.blood_drop_splat_0008
-        };
-
-        public BloodSplat() : base (bloodSplat)
-        {
-           
+            bloodSplat.X = Left + 20;
+            bloodSplat.Y = Top - 1;
+            bloodSplat.Width = 30;
+            bloodSplat.Height = 40;
         }
     }
 }

@@ -22,15 +22,7 @@ namespace Shoter
         {
             bitmap = new Bitmap(resource);
         }
-
-        public CImageBase(List<Bitmap> bloodSplat)
-        {
-            foreach (var splat in bloodSplat)
-            {
-                bitmap = splat;
-            }
-        }
-
+         
         public void DrawImage(Graphics gfx)
         {
             gfx.DrawImage(bitmap, X, Y);
@@ -41,7 +33,6 @@ namespace Shoter
         {
             Dispose(true);
             GC.SuppressFinalize(this);
-
         }
 
         protected virtual void Dispose(bool disposing)
