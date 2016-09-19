@@ -29,6 +29,7 @@ namespace Shoter
         int totalshots = 0;
         double averageShots = 0;
 
+     
         CZombie zombie;
 
         GroundCracks craks;
@@ -58,6 +59,8 @@ namespace Shoter
             scoreTable = new ScoreTable() { Left = 1078, Top = 105 };
 
             bloodSplat = new BloodSplat();
+
+            
         }
 
         private void timerGameLoop_Tick(object sender, EventArgs e)
@@ -124,9 +127,6 @@ namespace Shoter
             TextRenderer.DrawText(e.Graphics, "Hits: " + hits.ToString(), font2, new Rectangle(1120, 160, 120, 20), SystemColors.ControlText, points);
             TextRenderer.DrawText(e.Graphics, "Misses: " + misses.ToString(), font2, new Rectangle(1120, 180, 120, 20), SystemColors.ControlText, points);
             TextRenderer.DrawText(e.Graphics, "Average: " + averageShots.ToString("F0") + "%", font2, new Rectangle(1120, 200, 120, 20), SystemColors.ControlText, points);
-
-
-
 
             base.OnPaint(e);
         }

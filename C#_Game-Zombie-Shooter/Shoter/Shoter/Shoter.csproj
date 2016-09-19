@@ -117,6 +117,9 @@
   <ItemGroup>
     <None Include="Resources\GunSught.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\raise-zombie-1.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -15,3 +15,4 @@ C:\Users\ValCoder\Documents\LocalRepo\C#_Game-Zombie-Shooter\Shoter\Shoter\bin\D
 C:\Users\ValCoder\Documents\LocalRepo\C#_Game-Zombie-Shooter\Shoter\Shoter\obj\Debug\Shoter.Shooter.resources
 C:\Users\ValCoder\Documents\LocalRepo\C#_Game-Zombie-Shooter\Shoter\Shoter\obj\Debug\Shoter.Properties.Resources.resources
 C:\Users\ValCoder\Documents\LocalRepo\C#_Game-Zombie-Shooter\Shoter\Shoter\obj\Debug\Shoter.csproj.GenerateResource.Cache
+C:\Users\ValCoder\Documents\LocalRepo\C#_Game-Zombie-Shooter\Shoter\Shoter\obj\Debug\Shoter.csprojResolveAssemblyReference.cache
