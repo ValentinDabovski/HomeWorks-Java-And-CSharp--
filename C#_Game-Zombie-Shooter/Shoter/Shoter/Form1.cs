@@ -65,7 +65,7 @@ namespace Shoter
 
         private void timerGameLoop_Tick(object sender, EventArgs e)
         {
-            if (gameFrame >= 7)
+            if (gameFrame >= 15)
             {
                 UpdateZombie();
                 gameFrame = 0;
