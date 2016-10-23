@@ -1,0 +1,10 @@
+c:\users\valcoder\documents\visual studio 2015\Projects\SoftUniEntities\SoftUniEntities\bin\Debug\SoftUniEntities.exe.config
+c:\users\valcoder\documents\visual studio 2015\Projects\SoftUniEntities\SoftUniEntities\bin\Debug\SoftUniEntities.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\SoftUniEntities\SoftUniEntities\bin\Debug\SoftUniEntities.pdb
+c:\users\valcoder\documents\visual studio 2015\Projects\SoftUniEntities\SoftUniEntities\bin\Debug\EntityFramework.dll
+c:\users\valcoder\documents\visual studio 2015\Projects\SoftUniEntities\SoftUniEntities\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\valcoder\documents\visual studio 2015\Projects\SoftUniEntities\SoftUniEntities\bin\Debug\EntityFramework.xml
+c:\users\valcoder\documents\visual studio 2015\Projects\SoftUniEntities\SoftUniEntities\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\valcoder\documents\visual studio 2015\Projects\SoftUniEntities\SoftUniEntities\obj\Debug\SoftUniEntities.csprojResolveAssemblyReference.cache
+c:\users\valcoder\documents\visual studio 2015\Projects\SoftUniEntities\SoftUniEntities\obj\Debug\SoftUniEntities.exe
+c:\users\valcoder\documents\visual studio 2015\Projects\SoftUniEntities\SoftUniEntities\obj\Debug\SoftUniEntities.pdb
