@@ -1,0 +1,12 @@
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Data\bin\Debug\HospitalSystem.Data.dll.config
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Data\bin\Debug\HospitalSystem.Data.dll
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Data\bin\Debug\HospitalSystem.Data.pdb
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Data\bin\Debug\HospitalSystem.Models.dll
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Data\bin\Debug\HospitalSystem.Models.pdb
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Data\obj\Debug\HospitalSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Data\obj\Debug\HospitalSystem.Data.dll
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Data\obj\Debug\HospitalSystem.Data.pdb

@@ -1,0 +1,5 @@
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Models\bin\Debug\HospitalSystem.Models.dll
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Models\bin\Debug\HospitalSystem.Models.pdb
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Models\obj\Debug\HospitalSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Models\obj\Debug\HospitalSystem.Models.dll
+C:\Users\ValCoder\documents\visual studio 2015\Projects\Hospital Database System\HospitalSystem.Models\obj\Debug\HospitalSystem.Models.pdb
