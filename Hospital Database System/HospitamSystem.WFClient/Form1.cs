@@ -52,6 +52,7 @@
                 DateOfBirth = patientDateOfBirth,
                 // ProfilePicture = patientProfilePicture, // ??? picture
                 HasmedicalInsurance = patientMedicalInsurance,
+
             };
             context.Patients.Add(patient);
 

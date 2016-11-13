@@ -11,6 +11,12 @@ namespace HospitalSystem.Models
 
     public class Visitation
     {
+        private ICollection<Patient> patients;
+        public Visitation()
+        {
+            this.patients = new HashSet<Patient>();
+        }
+
         [Key]
         public int Id { get; set; }
         
@@ -19,5 +25,12 @@ namespace HospitalSystem.Models
 
         [MaxLength(500)]
         public string Comments { get; set; }
+
+        public virtual ICollection<Patient> Patients
+        {
+            get { return this.patients; }
+
+            set { this.patients = value; }
+        }
     }
 }
